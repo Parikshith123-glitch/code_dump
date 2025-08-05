@@ -1,0 +1,121 @@
+Name:   uart0
+Info:   Change the pin usage of uart0
+Load:   dtoverlay=uart0,<param>=<val>
+Params: txd0_pin                GPIO pin for TXD0 (14, 32 or 36 - default 14)
+
+        rxd0_pin                GPIO pin for RXD0 (15, 33 or 37 - default 15)
+
+        pin_func                Alternative pin function - 4(Alt0) for 14&15,
+                                7(Alt3) for 32&33, 6(Alt2) for 36&37
+
+
+Name:   uart0-pi5
+Info:   Enable uart 0 on GPIOs 14-15. Pi 5 only.
+Load:   dtoverlay=uart0-pi5,<param>
+Params: ctsrts                  Enable CTS/RTS on GPIOs 16-17 (default off)
+
+
+Name:   uart1
+Info:   Change the pin usage of uart1
+Load:   dtoverlay=uart1,<param>=<val>
+Params: txd1_pin                GPIO pin for TXD1 (14, 32 or 40 - default 14)
+
+        rxd1_pin                GPIO pin for RXD1 (15, 33 or 41 - default 15)
+
+
+Name:   uart1-pi5
+Info:   Enable uart 1 on GPIOs 0-1. Pi 5 only.
+Load:   dtoverlay=uart1-pi5,<param>
+Params: ctsrts                  Enable CTS/RTS on GPIOs 2-3 (default off)
+
+
+Name:   uart2
+Info:   Enable uart 2 on GPIOs 0-3. BCM2711 only.
+Load:   dtoverlay=uart2,<param>
+Params: ctsrts                  Enable CTS/RTS on GPIOs 2-3 (default off)
+        rs485                   Enable RS485 mode for using the RTS line to
+                                drive the OE pin of an RS485 transceiver (i.e.
+                                MAX3078E); also enables the UARTx ctsrts
+                                parameter, as RTS is required (default off).
+        rs485_invert_rts        When RS485 mode is enabled, inverts the RTS
+                                line from active-high (default) to active-low.
+        rs485_rts_on_delay      When RS485 mode is enabled, sets the delay (in
+                                milliseconds) between data transmission starting
+                                and the RTS line being asserted (default 0).
+        rs485_rts_off_delay     When RS485 mode is enabled, sets the delay (in
+                                milliseconds) between data transmission ending
+                                and the RTS line being deasserted (default 0).
+
+
+Name:   uart2-pi5
+Info:   Enable uart 2 on GPIOs 4-5. Pi 5 only.
+Load:   dtoverlay=uart2-pi5,<param>
+Params: ctsrts                  Enable CTS/RTS on GPIOs 6-7 (default off)
+
+
+Name:   uart3
+Info:   Enable uart 3 on GPIOs 4-7. BCM2711 only.
+Load:   dtoverlay=uart3,<param>
+Params: ctsrts                  Enable CTS/RTS on GPIOs 6-7 (default off)
+        rs485                   Enable RS485 mode for using the RTS line to
+                                drive the OE pin of an RS485 transceiver (i.e.
+                                MAX3078E); also enables the UARTx ctsrts
+                                parameter, as RTS is required (default off).
+        rs485_invert_rts        When RS485 mode is enabled, inverts the RTS
+                                line from active-high (default) to active-low.
+        rs485_rts_on_delay      When RS485 mode is enabled, sets the delay (in
+                                milliseconds) between data transmission starting
+                                and the RTS line being asserted (default 0).
+        rs485_rts_off_delay     When RS485 mode is enabled, sets the delay (in
+                                milliseconds) between data transmission ending
+                                and the RTS line being deasserted (default 0).
+
+
+Name:   uart3-pi5
+Info:   Enable uart 3 on GPIOs 8-9. Pi 5 only.
+Load:   dtoverlay=uart3-pi5,<param>
+Params: ctsrts                  Enable CTS/RTS on GPIOs 10-11 (default off)
+
+
+Name:   uart4
+Info:   Enable uart 4 on GPIOs 8-11. BCM2711 only.
+Load:   dtoverlay=uart4,<param>
+Params: ctsrts                  Enable CTS/RTS on GPIOs 10-11 (default off)
+        rs485                   Enable RS485 mode for using the RTS line to
+                                drive the OE pin of an RS485 transceiver (i.e.
+                                MAX3078E); also enables the UARTx ctsrts
+                                parameter, as RTS is required (default off).
+        rs485_invert_rts        When RS485 mode is enabled, inverts the RTS
+                                line from active-high (default) to active-low.
+        rs485_rts_on_delay      When RS485 mode is enabled, sets the delay (in
+                                milliseconds) between data transmission starting
+                                and the RTS line being asserted (default 0).
+        rs485_rts_off_delay     When RS485 mode is enabled, sets the delay (in
+                                milliseconds) between data transmission ending
+                                and the RTS line being deasserted (default 0).
+
+
+Name:   uart4-pi5
+Info:   Enable uart 4 on GPIOs 12-13. Pi 5 only.
+Load:   dtoverlay=uart4-pi5,<param>
+Params: ctsrts                  Enable CTS/RTS on GPIOs 14-15 (default off)
+
+
+Name:   uart5
+Info:   Enable uart 5 on GPIOs 12-15. BCM2711 only.
+Load:   dtoverlay=uart5,<param>
+Params: ctsrts                  Enable CTS/RTS on GPIOs 14-15 (default off)
+        rs485                   Enable RS485 mode for using the RTS line to
+                                drive the OE pin of an RS485 transceiver (i.e.
+                                MAX3078E); also enables the UARTx ctsrts
+                                parameter, as RTS is required (default off).
+        rs485_invert_rts        When RS485 mode is enabled, inverts the RTS
+                                line from active-high (default) to active-low.
+        rs485_rts_on_delay      When RS485 mode is enabled, sets the delay (in
+                                milliseconds) between data transmission starting
+                                and the RTS line being asserted (default 0).
+        rs485_rts_off_delay     When RS485 mode is enabled, sets the delay (in
+                                milliseconds) between data transmission ending
+                                and the RTS line being deasserted (default 0).
+
+

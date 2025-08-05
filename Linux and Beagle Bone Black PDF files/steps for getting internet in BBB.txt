@@ -1,0 +1,75 @@
+ 82 void setup_uart(int fd) {
+ 83     struct termios options;
+ 84
+ 85     if(tcgetattr(fd, &options) < 0)
+ 86     {
+ 87         perror("tcgetattr failed");
+ 88         return;
+ 89     }
+ 90
+ 91     cfsetispeed(&options, B9600);                                                                                                                        
+ 92     cfsetospeed(&options, B9600);
+ 93
+ 94     options.c_cflag = CS8 | CREAD | CLOCAL;
+ 95     options.c_lflag = 0;
+ 96     options.c_iflag = 0;
+ 97     options.c_oflag = 0;
+ 98
+ 99     tcflush(fd, TCIOFLUSH);
+100
+101     if(tcsetattr(fd, TCSANOW, &options) < 0)
+102     {
+103         perror("tcsetattr failed");
+104         return;
+105     }
+106 }
+
+
+// sudo /sbin/route add default gw 192.168.7.1
+
+// uncommented the 28th line i.e. ipforwarding for ipv4 in /etc/sysctl.conf file 
+
+// did this -> echo "nameserver 8.8.8.8" | /etc/resolv.conf file and by pinging to google getting bytes normally.
+
+Why this happens:
+
+By default, BeagleBone uses connman (a connection manager), which can overwrite /etc/resolv.conf.
+Even if you manually set the nameserver, it might be reset on reboot or network change
+
+
+----------------------------------------------------------------------------------------------------------
+adding this command to a file and (make it executable) putting it at the end of ./bashrc file to get internet access right after booting the BBB.
+
+sudo /sbin/route add default gw 192.168.7.1
+
+This command tells the BeagleBone how to reach the internet (or any network not directly connected).
+
+default: This is the default route — i.e., where to send all traffic that's not for the local network.
+gw 192.168.7.1: "Gateway" is the device that forwards your traffic to other networks. Here, it's 192.168.7.1.
+
+Result: Now the BeagleBone knows that any internet traffic should be forwarded to 192.168.7.1.
+
+🧭 What is 192.168.7.1?
+In your BeagleBone setup:
+BeagleBone gets the IP 192.168.7.2
+Host laptop (Windows PC, via USB RNDIS Ethernet) gets 192.168.7.1
+So, 192.168.7.1 is your laptop's IP on the USB interface — acting like a mini router.
+
+----------------------------------------------------------------------------------------------------------
+
+for a script or .c file/ executable to run on reboot then, a crontab must to be created with the following commands
+
+$ crontab -e 
+@reboot sh /home/debian/13_2_gpio.sh 
+
+$ crontab -l // to see the lines added 
+This is crontab(crontable) a utility used for scheduling commands or scripts to run automatically at specified intervals.
+// crontab -r // to remove all the jobs that are in the crontable
+----------------------------------------------------------------------------------------------------------
+
+Create a process and inside that process create 3 threads and send data from 1 thread and the other 2 thread should print that data.
+how to send the data is up to me, char data, block data, stream of data etc the method should be best for the data transfer.
+- This has been done and is done through global variable method and the other 2 types i.e. shared memory and message queue
+----------------------------------------------------------------------------------------------------------
+
+

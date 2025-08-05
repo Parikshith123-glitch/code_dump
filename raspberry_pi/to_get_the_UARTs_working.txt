@@ -1,0 +1,27 @@
+-ls /dev/*AMA* - gets ttyAMA3 and ttyAMA5 (These are the  UART's 3 and 5 of the RS485)
+
+-In the code use this for opening and getting the file descriptor.
+
+-sudo nano /boot/firmware/config.txt -> in this .txt file we need to change/add the following lines for our UART to start working: 
+
+dtoverlay=uart3
+dtoverlay=uart5 
+
+-while sending if usleep is 1,000,000 or 1,00,000(sender's side) the receving data is proper, if it is any less we get data like this ... 
+
+Received: nding stringsend 420
+Received: ing stringsendin 421
+Received: g stringsending  422
+Received: stringsending st 423
+Received: ringsending stri 424
+Received: ngsending string 425
+Received: sending stringse 426
+Received: nding stringsend 427
+Received: ing stringsendin 428
+Received: g stringsending  429
+Received: stringsending st 430
+Received: ringsending stri 431
+Received: ngsending string 432
+Received: sending stringse 433
+Received: nding stringsend 434
+Received: ing stringsendin 435
