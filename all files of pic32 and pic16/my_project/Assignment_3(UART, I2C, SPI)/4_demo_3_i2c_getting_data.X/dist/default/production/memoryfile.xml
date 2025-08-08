@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/4_demo_3_i2c_getting_data.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>2098304</length>                 
+      <used>4012</used>                     
+      <free>2094292</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>524288</length>                 
+      <used>36</used>                     
+      <free>524252</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

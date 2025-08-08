@@ -1,0 +1,273 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PIC14E ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F15356 ]
+[d frameptr 6 ]
+"10 C:\Program Files\Microchip\xc8\v3.00\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v3.00\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"63 D:\Scope\my_project\Assignment_5(Memory)\dummy_program.X\main_dummy.c
+[v _main main `(i  1 e 2 0 ]
+"98
+[v _osc_init osc_init `(v  1 e 1 0 ]
+"103
+[v _i2c_init i2c_init `(v  1 e 1 0 ]
+"110
+[v _i2c_start_dac2 i2c_start_dac2 `(v  1 e 1 0 ]
+"116
+[v _i2c_stop_dac2 i2c_stop_dac2 `(v  1 e 1 0 ]
+"134
+[v _i2c_write_dac2 i2c_write_dac2 `(v  1 e 1 0 ]
+"155
+[v _i2c_read_dac i2c_read_dac `(uc  1 e 1 0 ]
+"192
+[v _MCP_init MCP_init `(v  1 e 1 0 ]
+"198
+[v _mcp_set mcp_set `(v  1 e 1 0 ]
+[s S22 . 1 `uc 1 TRISB0 1 0 :1:0 
+`uc 1 TRISB1 1 0 :1:1 
+`uc 1 TRISB2 1 0 :1:2 
+`uc 1 TRISB3 1 0 :1:3 
+`uc 1 TRISB4 1 0 :1:4 
+`uc 1 TRISB5 1 0 :1:5 
+`uc 1 TRISB6 1 0 :1:6 
+`uc 1 TRISB7 1 0 :1:7 
+]
+"674 C:/Program Files/Microchip/MPLABX/v6.25/packs/Microchip/PIC16F1xxxx_DFP/1.26.410/xc8\pic\include\proc/pic16f15356.h
+[u S31 . 1 `S22 1 . 1 0 ]
+[v _TRISBbits TRISBbits `VES31  1 e 1 @19 ]
+"3093
+[v _SSP2BUF SSP2BUF `VEuc  1 e 1 @406 ]
+"3113
+[v _SSP2ADD SSP2ADD `VEuc  1 e 1 @407 ]
+[s S202 . 1 `uc 1 BF 1 0 :1:0 
+`uc 1 UA 1 0 :1:1 
+`uc 1 R_nW 1 0 :1:2 
+`uc 1 S 1 0 :1:3 
+`uc 1 P 1 0 :1:4 
+`uc 1 D_nA 1 0 :1:5 
+`uc 1 CKE 1 0 :1:6 
+`uc 1 SMP 1 0 :1:7 
+]
+"3412
+[s S211 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 R_W 1 0 :1:2 
+`uc 1 . 1 0 :2:3 
+`uc 1 D_A 1 0 :1:5 
+]
+[s S216 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 nW 1 0 :1:2 
+`uc 1 . 1 0 :2:3 
+`uc 1 nA 1 0 :1:5 
+]
+[s S221 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 nWRITE 1 0 :1:2 
+`uc 1 . 1 0 :2:3 
+`uc 1 nADDRESS 1 0 :1:5 
+]
+[s S226 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 READ_WRITE 1 0 :1:2 
+`uc 1 . 1 0 :2:3 
+`uc 1 DATA_ADDRESS 1 0 :1:5 
+]
+[s S231 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 I2C_READ 1 0 :1:2 
+`uc 1 I2C_START 1 0 :1:3 
+`uc 1 I2C_STOP 1 0 :1:4 
+`uc 1 I2C_DAT 1 0 :1:5 
+]
+[s S237 . 1 `uc 1 BF2 1 0 :1:0 
+`uc 1 UA2 1 0 :1:1 
+`uc 1 R 1 0 :1:2 
+`uc 1 START 1 0 :1:3 
+`uc 1 STOP 1 0 :1:4 
+`uc 1 D 1 0 :1:5 
+`uc 1 CKE2 1 0 :1:6 
+`uc 1 SMP2 1 0 :1:7 
+]
+[s S246 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 RW 1 0 :1:2 
+`uc 1 START2 1 0 :1:3 
+`uc 1 STOP2 1 0 :1:4 
+`uc 1 DA 1 0 :1:5 
+]
+[s S252 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 RW2 1 0 :1:2 
+`uc 1 I2C_START2 1 0 :1:3 
+`uc 1 I2C_STOP2 1 0 :1:4 
+`uc 1 DA2 1 0 :1:5 
+]
+[s S258 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 I2C_READ2 1 0 :1:2 
+`uc 1 S2 1 0 :1:3 
+`uc 1 P2 1 0 :1:4 
+`uc 1 DATA_ADDRESS2 1 0 :1:5 
+]
+[s S264 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 READ_WRITE2 1 0 :1:2 
+`uc 1 . 1 0 :2:3 
+`uc 1 D_A2 1 0 :1:5 
+]
+[s S269 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 R_W2 1 0 :1:2 
+`uc 1 . 1 0 :2:3 
+`uc 1 D_nA2 1 0 :1:5 
+]
+[s S274 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 R_nW2 1 0 :1:2 
+`uc 1 . 1 0 :2:3 
+`uc 1 I2C_DAT2 1 0 :1:5 
+]
+[s S279 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 nW2 1 0 :1:2 
+`uc 1 . 1 0 :2:3 
+`uc 1 nA2 1 0 :1:5 
+]
+[s S284 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 nWRITE2 1 0 :1:2 
+`uc 1 . 1 0 :2:3 
+`uc 1 nADDRESS2 1 0 :1:5 
+]
+[u S289 . 1 `S202 1 . 1 0 `S211 1 . 1 0 `S216 1 . 1 0 `S221 1 . 1 0 `S226 1 . 1 0 `S231 1 . 1 0 `S237 1 . 1 0 `S246 1 . 1 0 `S252 1 . 1 0 `S258 1 . 1 0 `S264 1 . 1 0 `S269 1 . 1 0 `S274 1 . 1 0 `S279 1 . 1 0 `S284 1 . 1 0 ]
+[v _SSP2STATbits SSP2STATbits `VES289  1 e 1 @409 ]
+[s S78 . 1 `uc 1 SSPM 1 0 :4:0 
+`uc 1 CKP 1 0 :1:4 
+`uc 1 SSPEN 1 0 :1:5 
+`uc 1 SSPOV 1 0 :1:6 
+`uc 1 WCOL 1 0 :1:7 
+]
+"3697
+[s S84 . 1 `uc 1 SSPM0 1 0 :1:0 
+`uc 1 SSPM1 1 0 :1:1 
+`uc 1 SSPM2 1 0 :1:2 
+`uc 1 SSPM3 1 0 :1:3 
+]
+[s S89 . 1 `uc 1 SSPM02 1 0 :1:0 
+`uc 1 SSPM12 1 0 :1:1 
+`uc 1 SSPM22 1 0 :1:2 
+`uc 1 SSPM32 1 0 :1:3 
+`uc 1 CKP2 1 0 :1:4 
+`uc 1 SSPEN2 1 0 :1:5 
+`uc 1 SSPOV2 1 0 :1:6 
+`uc 1 WCOL2 1 0 :1:7 
+]
+[u S98 . 1 `S78 1 . 1 0 `S84 1 . 1 0 `S89 1 . 1 0 ]
+[v _SSP2CON1bits SSP2CON1bits `VES98  1 e 1 @410 ]
+[s S124 . 1 `uc 1 SEN 1 0 :1:0 
+`uc 1 RSEN 1 0 :1:1 
+`uc 1 PEN 1 0 :1:2 
+`uc 1 RCEN 1 0 :1:3 
+`uc 1 ACKEN 1 0 :1:4 
+`uc 1 ACKDT 1 0 :1:5 
+`uc 1 ACKSTAT 1 0 :1:6 
+`uc 1 GCEN 1 0 :1:7 
+]
+"3834
+[s S133 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 ADMSK 1 0 :5:1 
+]
+[s S136 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 ADMSK1 1 0 :1:1 
+`uc 1 ADMSK2 1 0 :1:2 
+`uc 1 ADMSK3 1 0 :1:3 
+`uc 1 ADMSK4 1 0 :1:4 
+`uc 1 ADMSK5 1 0 :1:5 
+]
+[s S143 . 1 `uc 1 SEN2 1 0 :1:0 
+`uc 1 ADMSK12 1 0 :1:1 
+`uc 1 ADMSK22 1 0 :1:2 
+`uc 1 ADMSK32 1 0 :1:3 
+`uc 1 ACKEN2 1 0 :1:4 
+`uc 1 ACKDT2 1 0 :1:5 
+`uc 1 ACKSTAT2 1 0 :1:6 
+`uc 1 GCEN2 1 0 :1:7 
+]
+[s S152 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 RSEN2 1 0 :1:1 
+`uc 1 PEN2 1 0 :1:2 
+`uc 1 RCEN2 1 0 :1:3 
+`uc 1 ADMSK42 1 0 :1:4 
+`uc 1 ADMSK52 1 0 :1:5 
+]
+[u S159 . 1 `S124 1 . 1 0 `S133 1 . 1 0 `S136 1 . 1 0 `S143 1 . 1 0 `S152 1 . 1 0 ]
+[v _SSP2CON2bits SSP2CON2bits `VES159  1 e 1 @411 ]
+[s S62 . 1 `uc 1 HFFRQ 1 0 :3:0 
+]
+"11217
+[s S64 . 1 `uc 1 HFFRQ0 1 0 :1:0 
+`uc 1 HFFRQ1 1 0 :1:1 
+`uc 1 HFFRQ2 1 0 :1:2 
+]
+[u S68 . 1 `S62 1 . 1 0 `S64 1 . 1 0 ]
+[v _OSCFRQbits OSCFRQbits `VES68  1 e 1 @2195 ]
+"63 D:\Scope\my_project\Assignment_5(Memory)\dummy_program.X\main_dummy.c
+[v _main main `(i  1 e 2 0 ]
+{
+"72
+[v main@i i `ul  1 a 4 10 ]
+"94
+} 0
+"98
+[v _osc_init osc_init `(v  1 e 1 0 ]
+{
+"101
+} 0
+"198
+[v _mcp_set mcp_set `(v  1 e 1 0 ]
+{
+[v mcp_set@port port `uc  1 p 1 wreg ]
+"200
+[v mcp_set@reg reg `uc  1 a 1 9 ]
+"201
+[v mcp_set@value value `uc  1 a 1 8 ]
+"198
+[v mcp_set@port port `uc  1 p 1 wreg ]
+[v mcp_set@pin pin `uc  1 p 1 2 ]
+[v mcp_set@state state `uc  1 p 1 3 ]
+"200
+[v mcp_set@port port `uc  1 p 1 5 ]
+"208
+} 0
+"155
+[v _i2c_read_dac i2c_read_dac `(uc  1 e 1 0 ]
+{
+[v i2c_read_dac@reg reg `uc  1 p 1 wreg ]
+"157
+[v i2c_read_dac@received_data received_data `uc  1 a 1 1 ]
+"155
+[v i2c_read_dac@reg reg `uc  1 p 1 wreg ]
+"159
+[v i2c_read_dac@reg reg `uc  1 p 1 0 ]
+"188
+} 0
+"103
+[v _i2c_init i2c_init `(v  1 e 1 0 ]
+{
+"108
+} 0
+"192
+[v _MCP_init MCP_init `(v  1 e 1 0 ]
+{
+"196
+} 0
+"134
+[v _i2c_write_dac2 i2c_write_dac2 `(v  1 e 1 0 ]
+{
+[v i2c_write_dac2@address address `uc  1 p 1 wreg ]
+[v i2c_write_dac2@address address `uc  1 p 1 wreg ]
+[v i2c_write_dac2@data data `uc  1 p 1 0 ]
+"136
+[v i2c_write_dac2@address address `uc  1 p 1 1 ]
+"153
+} 0
+"116
+[v _i2c_stop_dac2 i2c_stop_dac2 `(v  1 e 1 0 ]
+{
+"121
+} 0
+"110
+[v _i2c_start_dac2 i2c_start_dac2 `(v  1 e 1 0 ]
+{
+"114
+} 0

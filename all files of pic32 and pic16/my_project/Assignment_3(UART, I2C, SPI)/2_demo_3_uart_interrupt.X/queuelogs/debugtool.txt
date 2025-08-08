@@ -1,0 +1,1004 @@
+3931 1746607790826 XXXX 1746607790826, Thread 3931: XXXX 1746607790826, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607790938 XXXX 1746607790938, Thread 3931: XXXX 1746607790938, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607790938 XXXX 1746607790938, Thread 3931: XXXX 1746607790938, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607791050 XXXX 1746607791050, Thread 3931: XXXX 1746607791050, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607791050 XXXX 1746607791050, Thread 3931: XXXX 1746607791050, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607791161 XXXX 1746607791161, Thread 3931: XXXX 1746607791161, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607791161 XXXX 1746607791161, Thread 3931: XXXX 1746607791161, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607791273 XXXX 1746607791273, Thread 3931: XXXX 1746607791273, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607791273 XXXX 1746607791273, Thread 3931: XXXX 1746607791273, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607791385 XXXX 1746607791385, Thread 3931: XXXX 1746607791385, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607791385 XXXX 1746607791385, Thread 3931: XXXX 1746607791385, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607791497 XXXX 1746607791497, Thread 3931: XXXX 1746607791497, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607791497 XXXX 1746607791497, Thread 3931: XXXX 1746607791497, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607791610 XXXX 1746607791610, Thread 3931: XXXX 1746607791610, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607791610 XXXX 1746607791610, Thread 3931: XXXX 1746607791610, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607791721 XXXX 1746607791721, Thread 3931: XXXX 1746607791721, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607791721 XXXX 1746607791721, Thread 3931: XXXX 1746607791721, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607791834 XXXX 1746607791834, Thread 3931: XXXX 1746607791834, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607791834 XXXX 1746607791834, Thread 3931: XXXX 1746607791834, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607791946 XXXX 1746607791946, Thread 3931: XXXX 1746607791946, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607791946 XXXX 1746607791946, Thread 3931: XXXX 1746607791946, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607792058 XXXX 1746607792058, Thread 3931: XXXX 1746607792058, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607792058 XXXX 1746607792058, Thread 3931: XXXX 1746607792058, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607792169 XXXX 1746607792169, Thread 3931: XXXX 1746607792169, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607792169 XXXX 1746607792169, Thread 3931: XXXX 1746607792169, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607792281 XXXX 1746607792281, Thread 3931: XXXX 1746607792281, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607792281 XXXX 1746607792281, Thread 3931: XXXX 1746607792281, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607792394 XXXX 1746607792394, Thread 3931: XXXX 1746607792394, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607792394 XXXX 1746607792394, Thread 3931: XXXX 1746607792394, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607792506 XXXX 1746607792506, Thread 3931: XXXX 1746607792506, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607792506 XXXX 1746607792506, Thread 3931: XXXX 1746607792506, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607792617 XXXX 1746607792617, Thread 3931: XXXX 1746607792617, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607792617 XXXX 1746607792617, Thread 3931: XXXX 1746607792617, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607792729 XXXX 1746607792729, Thread 3931: XXXX 1746607792729, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607792729 XXXX 1746607792729, Thread 3931: XXXX 1746607792729, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607792842 XXXX 1746607792842, Thread 3931: XXXX 1746607792842, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607792842 XXXX 1746607792842, Thread 3931: XXXX 1746607792842, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607792955 XXXX 1746607792955, Thread 3931: XXXX 1746607792955, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607792955 XXXX 1746607792955, Thread 3931: XXXX 1746607792955, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607793066 XXXX 1746607793066, Thread 3931: XXXX 1746607793066, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607793066 XXXX 1746607793066, Thread 3931: XXXX 1746607793066, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607793178 XXXX 1746607793178, Thread 3931: XXXX 1746607793178, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607793178 XXXX 1746607793178, Thread 3931: XXXX 1746607793178, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607793289 XXXX 1746607793289, Thread 3931: XXXX 1746607793289, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607793289 XXXX 1746607793289, Thread 3931: XXXX 1746607793289, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607793401 XXXX 1746607793401, Thread 3931: XXXX 1746607793401, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607793401 XXXX 1746607793401, Thread 3931: XXXX 1746607793401, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607793513 XXXX 1746607793513, Thread 3931: XXXX 1746607793513, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607793513 XXXX 1746607793513, Thread 3931: XXXX 1746607793513, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607793625 XXXX 1746607793625, Thread 3931: XXXX 1746607793625, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607793625 XXXX 1746607793625, Thread 3931: XXXX 1746607793625, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607793737 XXXX 1746607793737, Thread 3931: XXXX 1746607793737, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607793737 XXXX 1746607793737, Thread 3931: XXXX 1746607793737, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607793849 XXXX 1746607793849, Thread 3931: XXXX 1746607793849, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607793849 XXXX 1746607793849, Thread 3931: XXXX 1746607793849, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607793961 XXXX 1746607793961, Thread 3931: XXXX 1746607793961, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607793961 XXXX 1746607793961, Thread 3931: XXXX 1746607793961, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607794072 XXXX 1746607794072, Thread 3931: XXXX 1746607794072, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607794072 XXXX 1746607794072, Thread 3931: XXXX 1746607794072, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607794183 XXXX 1746607794183, Thread 3931: XXXX 1746607794183, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607794183 XXXX 1746607794183, Thread 3931: XXXX 1746607794183, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607794296 XXXX 1746607794296, Thread 3931: XXXX 1746607794296, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607794296 XXXX 1746607794296, Thread 3931: XXXX 1746607794296, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607794409 XXXX 1746607794409, Thread 3931: XXXX 1746607794409, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607794409 XXXX 1746607794409, Thread 3931: XXXX 1746607794409, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607794520 XXXX 1746607794520, Thread 3931: XXXX 1746607794520, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607794520 XXXX 1746607794520, Thread 3931: XXXX 1746607794520, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607794632 XXXX 1746607794632, Thread 3931: XXXX 1746607794632, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607794632 XXXX 1746607794632, Thread 3931: XXXX 1746607794632, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607794744 XXXX 1746607794744, Thread 3931: XXXX 1746607794744, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607794744 XXXX 1746607794744, Thread 3931: XXXX 1746607794744, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607794856 XXXX 1746607794856, Thread 3931: XXXX 1746607794856, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607794856 XXXX 1746607794856, Thread 3931: XXXX 1746607794856, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607794969 XXXX 1746607794969, Thread 3931: XXXX 1746607794969, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607794969 XXXX 1746607794969, Thread 3931: XXXX 1746607794969, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607795080 XXXX 1746607795080, Thread 3931: XXXX 1746607795080, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607795080 XXXX 1746607795080, Thread 3931: XXXX 1746607795080, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607795191 XXXX 1746607795191, Thread 3931: XXXX 1746607795191, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607795191 XXXX 1746607795191, Thread 3931: XXXX 1746607795191, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607795304 XXXX 1746607795304, Thread 3931: XXXX 1746607795304, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607795304 XXXX 1746607795304, Thread 3931: XXXX 1746607795304, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607795415 XXXX 1746607795415, Thread 3931: XXXX 1746607795415, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607795415 XXXX 1746607795415, Thread 3931: XXXX 1746607795415, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607795527 XXXX 1746607795527, Thread 3931: XXXX 1746607795527, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607795527 XXXX 1746607795527, Thread 3931: XXXX 1746607795527, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607795640 XXXX 1746607795640, Thread 3931: XXXX 1746607795640, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607795640 XXXX 1746607795640, Thread 3931: XXXX 1746607795640, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607795751 XXXX 1746607795751, Thread 3931: XXXX 1746607795751, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607795751 XXXX 1746607795751, Thread 3931: XXXX 1746607795751, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607795863 XXXX 1746607795863, Thread 3931: XXXX 1746607795863, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607795863 XXXX 1746607795863, Thread 3931: XXXX 1746607795863, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607795975 XXXX 1746607795975, Thread 3931: XXXX 1746607795975, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607795977 XXXX 1746607795977, Thread 3931: XXXX 1746607795977, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607796087 XXXX 1746607796087, Thread 3931: XXXX 1746607796087, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607796087 XXXX 1746607796087, Thread 3931: XXXX 1746607796087, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607796199 XXXX 1746607796199, Thread 3931: XXXX 1746607796199, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607796199 XXXX 1746607796199, Thread 3931: XXXX 1746607796199, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607796311 XXXX 1746607796311, Thread 3931: XXXX 1746607796311, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607796311 XXXX 1746607796311, Thread 3931: XXXX 1746607796311, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607796424 XXXX 1746607796424, Thread 3931: XXXX 1746607796424, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607796424 XXXX 1746607796424, Thread 3931: XXXX 1746607796424, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607796536 XXXX 1746607796536, Thread 3931: XXXX 1746607796536, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607796536 XXXX 1746607796536, Thread 3931: XXXX 1746607796536, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607796648 XXXX 1746607796648, Thread 3931: XXXX 1746607796648, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607796648 XXXX 1746607796648, Thread 3931: XXXX 1746607796648, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607796761 XXXX 1746607796761, Thread 3931: XXXX 1746607796761, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607796761 XXXX 1746607796761, Thread 3931: XXXX 1746607796761, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607796872 XXXX 1746607796872, Thread 3931: XXXX 1746607796872, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607796872 XXXX 1746607796872, Thread 3931: XXXX 1746607796872, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607796984 XXXX 1746607796984, Thread 3931: XXXX 1746607796984, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607796984 XXXX 1746607796984, Thread 3931: XXXX 1746607796984, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607797096 XXXX 1746607797096, Thread 3931: XXXX 1746607797096, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607797096 XXXX 1746607797096, Thread 3931: XXXX 1746607797096, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607797207 XXXX 1746607797207, Thread 3931: XXXX 1746607797207, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607797207 XXXX 1746607797207, Thread 3931: XXXX 1746607797207, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607797319 XXXX 1746607797319, Thread 3931: XXXX 1746607797319, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607797319 XXXX 1746607797319, Thread 3931: XXXX 1746607797319, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607797432 XXXX 1746607797432, Thread 3931: XXXX 1746607797432, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607797432 XXXX 1746607797432, Thread 3931: XXXX 1746607797432, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607797544 XXXX 1746607797544, Thread 3931: XXXX 1746607797544, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607797544 XXXX 1746607797544, Thread 3931: XXXX 1746607797544, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607797655 XXXX 1746607797655, Thread 3931: XXXX 1746607797655, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607797655 XXXX 1746607797655, Thread 3931: XXXX 1746607797655, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607797767 XXXX 1746607797767, Thread 3931: XXXX 1746607797767, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607797767 XXXX 1746607797767, Thread 3931: XXXX 1746607797767, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607797880 XXXX 1746607797880, Thread 3931: XXXX 1746607797880, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607797880 XXXX 1746607797880, Thread 3931: XXXX 1746607797880, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607797992 XXXX 1746607797992, Thread 3931: XXXX 1746607797992, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607797992 XXXX 1746607797992, Thread 3931: XXXX 1746607797992, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607798103 XXXX 1746607798103, Thread 3931: XXXX 1746607798103, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607798103 XXXX 1746607798103, Thread 3931: XXXX 1746607798103, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607798215 XXXX 1746607798215, Thread 3931: XXXX 1746607798215, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607798215 XXXX 1746607798215, Thread 3931: XXXX 1746607798215, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607798327 XXXX 1746607798327, Thread 3931: XXXX 1746607798327, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607798327 XXXX 1746607798327, Thread 3931: XXXX 1746607798327, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607798439 XXXX 1746607798439, Thread 3931: XXXX 1746607798439, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607798439 XXXX 1746607798439, Thread 3931: XXXX 1746607798439, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607798551 XXXX 1746607798551, Thread 3931: XXXX 1746607798551, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607798551 XXXX 1746607798551, Thread 3931: XXXX 1746607798551, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607798663 XXXX 1746607798663, Thread 3931: XXXX 1746607798663, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607798663 XXXX 1746607798663, Thread 3931: XXXX 1746607798663, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607798774 XXXX 1746607798774, Thread 3931: XXXX 1746607798774, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607798774 XXXX 1746607798774, Thread 3931: XXXX 1746607798774, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607798887 XXXX 1746607798887, Thread 3931: XXXX 1746607798887, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607798887 XXXX 1746607798887, Thread 3931: XXXX 1746607798887, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607798999 XXXX 1746607798999, Thread 3931: XXXX 1746607798999, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607798999 XXXX 1746607798999, Thread 3931: XXXX 1746607798999, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607799111 XXXX 1746607799111, Thread 3931: XXXX 1746607799111, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607799111 XXXX 1746607799111, Thread 3931: XXXX 1746607799111, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607799223 XXXX 1746607799223, Thread 3931: XXXX 1746607799223, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607799223 XXXX 1746607799223, Thread 3931: XXXX 1746607799223, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607799334 XXXX 1746607799334, Thread 3931: XXXX 1746607799334, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607799334 XXXX 1746607799334, Thread 3931: XXXX 1746607799334, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607799446 XXXX 1746607799446, Thread 3931: XXXX 1746607799446, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607799446 XXXX 1746607799446, Thread 3931: XXXX 1746607799446, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607799557 XXXX 1746607799557, Thread 3931: XXXX 1746607799557, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607799557 XXXX 1746607799557, Thread 3931: XXXX 1746607799557, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607799668 XXXX 1746607799668, Thread 3931: XXXX 1746607799668, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607799668 XXXX 1746607799668, Thread 3931: XXXX 1746607799668, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607799781 XXXX 1746607799781, Thread 3931: XXXX 1746607799781, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607799781 XXXX 1746607799781, Thread 3931: XXXX 1746607799781, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607799894 XXXX 1746607799894, Thread 3931: XXXX 1746607799894, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607799894 XXXX 1746607799894, Thread 3931: XXXX 1746607799894, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607800008 XXXX 1746607800008, Thread 3931: XXXX 1746607800008, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607800008 XXXX 1746607800008, Thread 3931: XXXX 1746607800008, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607800117 XXXX 1746607800117, Thread 3931: XXXX 1746607800117, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607800117 XXXX 1746607800117, Thread 3931: XXXX 1746607800117, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607800229 XXXX 1746607800229, Thread 3931: XXXX 1746607800229, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607800229 XXXX 1746607800229, Thread 3931: XXXX 1746607800229, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607800341 XXXX 1746607800341, Thread 3931: XXXX 1746607800341, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607800341 XXXX 1746607800341, Thread 3931: XXXX 1746607800341, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607800453 XXXX 1746607800453, Thread 3931: XXXX 1746607800453, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607800453 XXXX 1746607800453, Thread 3931: XXXX 1746607800453, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607800565 XXXX 1746607800565, Thread 3931: XXXX 1746607800565, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607800565 XXXX 1746607800565, Thread 3931: XXXX 1746607800565, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607800677 XXXX 1746607800677, Thread 3931: XXXX 1746607800677, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607800677 XXXX 1746607800677, Thread 3931: XXXX 1746607800677, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607800789 XXXX 1746607800789, Thread 3931: XXXX 1746607800789, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607800789 XXXX 1746607800789, Thread 3931: XXXX 1746607800789, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607800901 XXXX 1746607800901, Thread 3931: XXXX 1746607800901, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607800901 XXXX 1746607800901, Thread 3931: XXXX 1746607800901, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607801013 XXXX 1746607801013, Thread 3931: XXXX 1746607801013, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607801013 XXXX 1746607801013, Thread 3931: XXXX 1746607801013, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607801124 XXXX 1746607801124, Thread 3931: XXXX 1746607801124, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607801124 XXXX 1746607801124, Thread 3931: XXXX 1746607801124, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607801236 XXXX 1746607801236, Thread 3931: XXXX 1746607801236, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607801236 XXXX 1746607801236, Thread 3931: XXXX 1746607801236, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607801349 XXXX 1746607801349, Thread 3931: XXXX 1746607801349, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607801349 XXXX 1746607801349, Thread 3931: XXXX 1746607801349, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607801460 XXXX 1746607801460, Thread 3931: XXXX 1746607801460, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607801460 XXXX 1746607801460, Thread 3931: XXXX 1746607801460, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607801572 XXXX 1746607801572, Thread 3931: XXXX 1746607801572, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607801572 XXXX 1746607801572, Thread 3931: XXXX 1746607801572, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607801683 XXXX 1746607801683, Thread 3931: XXXX 1746607801683, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607801683 XXXX 1746607801683, Thread 3931: XXXX 1746607801683, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607801794 XXXX 1746607801794, Thread 3931: XXXX 1746607801794, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607801794 XXXX 1746607801794, Thread 3931: XXXX 1746607801794, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607801906 XXXX 1746607801906, Thread 3931: XXXX 1746607801906, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607801906 XXXX 1746607801906, Thread 3931: XXXX 1746607801906, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607802018 XXXX 1746607802018, Thread 3931: XXXX 1746607802018, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607802018 XXXX 1746607802018, Thread 3931: XXXX 1746607802018, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607802130 XXXX 1746607802130, Thread 3931: XXXX 1746607802130, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607802130 XXXX 1746607802130, Thread 3931: XXXX 1746607802130, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607802241 XXXX 1746607802241, Thread 3931: XXXX 1746607802241, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607802241 XXXX 1746607802241, Thread 3931: XXXX 1746607802241, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607802354 XXXX 1746607802354, Thread 3931: XXXX 1746607802354, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607802354 XXXX 1746607802354, Thread 3931: XXXX 1746607802354, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607802467 XXXX 1746607802467, Thread 3931: XXXX 1746607802467, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607802467 XXXX 1746607802467, Thread 3931: XXXX 1746607802467, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607802579 XXXX 1746607802579, Thread 3931: XXXX 1746607802579, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607802579 XXXX 1746607802579, Thread 3931: XXXX 1746607802579, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607802690 XXXX 1746607802690, Thread 3931: XXXX 1746607802690, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607802690 XXXX 1746607802690, Thread 3931: XXXX 1746607802690, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607802802 XXXX 1746607802802, Thread 3931: XXXX 1746607802802, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607802802 XXXX 1746607802802, Thread 3931: XXXX 1746607802802, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607802915 XXXX 1746607802915, Thread 3931: XXXX 1746607802915, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607802915 XXXX 1746607802915, Thread 3931: XXXX 1746607802915, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607803027 XXXX 1746607803027, Thread 3931: XXXX 1746607803027, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607803027 XXXX 1746607803027, Thread 3931: XXXX 1746607803027, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607803139 XXXX 1746607803139, Thread 3931: XXXX 1746607803139, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607803139 XXXX 1746607803139, Thread 3931: XXXX 1746607803139, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607803250 XXXX 1746607803250, Thread 3931: XXXX 1746607803250, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607803250 XXXX 1746607803250, Thread 3931: XXXX 1746607803250, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607803362 XXXX 1746607803362, Thread 3931: XXXX 1746607803362, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607803362 XXXX 1746607803362, Thread 3931: XXXX 1746607803362, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607803475 XXXX 1746607803475, Thread 3931: XXXX 1746607803475, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607803475 XXXX 1746607803475, Thread 3931: XXXX 1746607803475, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607803586 XXXX 1746607803586, Thread 3931: XXXX 1746607803586, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607803586 XXXX 1746607803586, Thread 3931: XXXX 1746607803586, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607803697 XXXX 1746607803697, Thread 3931: XXXX 1746607803697, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607803697 XXXX 1746607803697, Thread 3931: XXXX 1746607803697, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607803809 XXXX 1746607803809, Thread 3931: XXXX 1746607803809, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607803809 XXXX 1746607803809, Thread 3931: XXXX 1746607803809, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607803923 XXXX 1746607803923, Thread 3931: XXXX 1746607803923, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607803923 XXXX 1746607803923, Thread 3931: XXXX 1746607803923, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607804034 XXXX 1746607804034, Thread 3931: XXXX 1746607804034, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607804034 XXXX 1746607804034, Thread 3931: XXXX 1746607804034, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607804146 XXXX 1746607804146, Thread 3931: XXXX 1746607804146, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607804146 XXXX 1746607804146, Thread 3931: XXXX 1746607804146, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607804258 XXXX 1746607804258, Thread 3931: XXXX 1746607804258, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607804258 XXXX 1746607804258, Thread 3931: XXXX 1746607804258, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607804371 XXXX 1746607804371, Thread 3931: XXXX 1746607804371, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607804371 XXXX 1746607804371, Thread 3931: XXXX 1746607804371, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607804484 XXXX 1746607804484, Thread 3931: XXXX 1746607804484, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607804484 XXXX 1746607804484, Thread 3931: XXXX 1746607804484, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607804595 XXXX 1746607804595, Thread 3931: XXXX 1746607804595, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607804595 XXXX 1746607804595, Thread 3931: XXXX 1746607804595, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607804707 XXXX 1746607804707, Thread 3931: XXXX 1746607804707, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607804707 XXXX 1746607804707, Thread 3931: XXXX 1746607804707, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607804820 XXXX 1746607804820, Thread 3931: XXXX 1746607804820, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607804820 XXXX 1746607804820, Thread 3931: XXXX 1746607804820, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607804932 XXXX 1746607804932, Thread 3931: XXXX 1746607804932, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607804932 XXXX 1746607804932, Thread 3931: XXXX 1746607804932, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607805044 XXXX 1746607805044, Thread 3931: XXXX 1746607805044, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607805044 XXXX 1746607805044, Thread 3931: XXXX 1746607805044, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607805156 XXXX 1746607805156, Thread 3931: XXXX 1746607805156, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607805156 XXXX 1746607805156, Thread 3931: XXXX 1746607805156, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607805268 XXXX 1746607805268, Thread 3931: XXXX 1746607805268, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607805268 XXXX 1746607805268, Thread 3931: XXXX 1746607805268, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607805380 XXXX 1746607805380, Thread 3931: XXXX 1746607805380, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607805380 XXXX 1746607805380, Thread 3931: XXXX 1746607805380, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607805493 XXXX 1746607805493, Thread 3931: XXXX 1746607805493, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607805493 XXXX 1746607805493, Thread 3931: XXXX 1746607805493, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607805604 XXXX 1746607805604, Thread 3931: XXXX 1746607805604, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607805604 XXXX 1746607805604, Thread 3931: XXXX 1746607805604, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607805716 XXXX 1746607805716, Thread 3931: XXXX 1746607805716, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607805716 XXXX 1746607805716, Thread 3931: XXXX 1746607805716, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607805828 XXXX 1746607805828, Thread 3931: XXXX 1746607805828, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607805828 XXXX 1746607805828, Thread 3931: XXXX 1746607805828, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607805940 XXXX 1746607805940, Thread 3931: XXXX 1746607805940, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607805940 XXXX 1746607805940, Thread 3931: XXXX 1746607805940, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607806051 XXXX 1746607806051, Thread 3931: XXXX 1746607806051, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607806051 XXXX 1746607806051, Thread 3931: XXXX 1746607806051, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607806163 XXXX 1746607806163, Thread 3931: XXXX 1746607806163, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607806163 XXXX 1746607806163, Thread 3931: XXXX 1746607806163, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607806274 XXXX 1746607806274, Thread 3931: XXXX 1746607806274, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607806274 XXXX 1746607806274, Thread 3931: XXXX 1746607806274, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607806387 XXXX 1746607806387, Thread 3931: XXXX 1746607806387, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607806387 XXXX 1746607806387, Thread 3931: XXXX 1746607806387, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607806499 XXXX 1746607806499, Thread 3931: XXXX 1746607806499, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607806499 XXXX 1746607806499, Thread 3931: XXXX 1746607806499, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607806611 XXXX 1746607806611, Thread 3931: XXXX 1746607806611, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607806611 XXXX 1746607806611, Thread 3931: XXXX 1746607806611, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607806722 XXXX 1746607806722, Thread 3931: XXXX 1746607806722, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607806722 XXXX 1746607806722, Thread 3931: XXXX 1746607806722, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607806834 XXXX 1746607806834, Thread 3931: XXXX 1746607806834, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607806834 XXXX 1746607806834, Thread 3931: XXXX 1746607806834, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607806947 XXXX 1746607806947, Thread 3931: XXXX 1746607806947, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607806947 XXXX 1746607806947, Thread 3931: XXXX 1746607806947, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607807059 XXXX 1746607807059, Thread 3931: XXXX 1746607807059, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607807059 XXXX 1746607807059, Thread 3931: XXXX 1746607807059, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607807170 XXXX 1746607807170, Thread 3931: XXXX 1746607807170, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607807170 XXXX 1746607807170, Thread 3931: XXXX 1746607807170, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607807283 XXXX 1746607807283, Thread 3931: XXXX 1746607807283, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607807283 XXXX 1746607807283, Thread 3931: XXXX 1746607807283, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607807395 XXXX 1746607807395, Thread 3931: XXXX 1746607807395, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607807395 XXXX 1746607807395, Thread 3931: XXXX 1746607807395, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607807506 XXXX 1746607807506, Thread 3931: XXXX 1746607807506, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607807506 XXXX 1746607807506, Thread 3931: XXXX 1746607807506, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607807618 XXXX 1746607807618, Thread 3931: XXXX 1746607807618, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607807618 XXXX 1746607807618, Thread 3931: XXXX 1746607807618, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607807730 XXXX 1746607807730, Thread 3931: XXXX 1746607807730, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607807730 XXXX 1746607807730, Thread 3931: XXXX 1746607807730, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607807842 XXXX 1746607807842, Thread 3931: XXXX 1746607807842, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607807842 XXXX 1746607807842, Thread 3931: XXXX 1746607807842, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607807954 XXXX 1746607807954, Thread 3931: XXXX 1746607807954, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607807954 XXXX 1746607807954, Thread 3931: XXXX 1746607807954, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607808066 XXXX 1746607808066, Thread 3931: XXXX 1746607808066, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607808066 XXXX 1746607808066, Thread 3931: XXXX 1746607808066, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607808177 XXXX 1746607808177, Thread 3931: XXXX 1746607808177, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607808177 XXXX 1746607808177, Thread 3931: XXXX 1746607808177, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607808289 XXXX 1746607808289, Thread 3931: XXXX 1746607808289, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607808289 XXXX 1746607808289, Thread 3931: XXXX 1746607808289, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607808401 XXXX 1746607808401, Thread 3931: XXXX 1746607808401, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607808401 XXXX 1746607808401, Thread 3931: XXXX 1746607808401, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607808513 XXXX 1746607808513, Thread 3931: XXXX 1746607808513, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607808513 XXXX 1746607808513, Thread 3931: XXXX 1746607808513, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607808625 XXXX 1746607808625, Thread 3931: XXXX 1746607808625, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607808625 XXXX 1746607808625, Thread 3931: XXXX 1746607808625, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607808737 XXXX 1746607808737, Thread 3931: XXXX 1746607808737, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607808737 XXXX 1746607808737, Thread 3931: XXXX 1746607808737, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607808850 XXXX 1746607808850, Thread 3931: XXXX 1746607808850, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607808850 XXXX 1746607808850, Thread 3931: XXXX 1746607808850, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607808962 XXXX 1746607808962, Thread 3931: XXXX 1746607808962, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607808962 XXXX 1746607808962, Thread 3931: XXXX 1746607808962, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607809074 XXXX 1746607809074, Thread 3931: XXXX 1746607809074, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607809074 XXXX 1746607809074, Thread 3931: XXXX 1746607809074, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607809185 XXXX 1746607809185, Thread 3931: XXXX 1746607809185, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607809185 XXXX 1746607809185, Thread 3931: XXXX 1746607809185, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607809297 XXXX 1746607809297, Thread 3931: XXXX 1746607809297, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607809297 XXXX 1746607809297, Thread 3931: XXXX 1746607809297, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607809409 XXXX 1746607809409, Thread 3931: XXXX 1746607809409, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607809409 XXXX 1746607809409, Thread 3931: XXXX 1746607809409, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607809521 XXXX 1746607809521, Thread 3931: XXXX 1746607809521, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607809521 XXXX 1746607809521, Thread 3931: XXXX 1746607809521, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607809632 XXXX 1746607809632, Thread 3931: XXXX 1746607809632, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607809632 XXXX 1746607809632, Thread 3931: XXXX 1746607809632, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607809744 XXXX 1746607809744, Thread 3931: XXXX 1746607809744, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607809744 XXXX 1746607809744, Thread 3931: XXXX 1746607809744, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607809857 XXXX 1746607809857, Thread 3931: XXXX 1746607809857, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607809857 XXXX 1746607809857, Thread 3931: XXXX 1746607809857, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607809968 XXXX 1746607809968, Thread 3931: XXXX 1746607809968, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607809968 XXXX 1746607809968, Thread 3931: XXXX 1746607809968, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607810080 XXXX 1746607810080, Thread 3931: XXXX 1746607810080, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607810080 XXXX 1746607810080, Thread 3931: XXXX 1746607810080, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607810192 XXXX 1746607810192, Thread 3931: XXXX 1746607810192, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607810192 XXXX 1746607810192, Thread 3931: XXXX 1746607810192, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607810303 XXXX 1746607810303, Thread 3931: XXXX 1746607810303, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607810303 XXXX 1746607810303, Thread 3931: XXXX 1746607810303, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607810416 XXXX 1746607810416, Thread 3931: XXXX 1746607810416, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607810416 XXXX 1746607810416, Thread 3931: XXXX 1746607810416, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607810528 XXXX 1746607810528, Thread 3931: XXXX 1746607810528, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607810528 XXXX 1746607810528, Thread 3931: XXXX 1746607810528, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607810640 XXXX 1746607810640, Thread 3931: XXXX 1746607810640, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607810640 XXXX 1746607810640, Thread 3931: XXXX 1746607810640, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607810751 XXXX 1746607810751, Thread 3931: XXXX 1746607810751, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607810751 XXXX 1746607810751, Thread 3931: XXXX 1746607810751, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607810865 XXXX 1746607810865, Thread 3931: XXXX 1746607810865, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607810865 XXXX 1746607810865, Thread 3931: XXXX 1746607810865, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607810977 XXXX 1746607810977, Thread 3931: XXXX 1746607810977, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607810977 XXXX 1746607810977, Thread 3931: XXXX 1746607810977, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607811088 XXXX 1746607811088, Thread 3931: XXXX 1746607811088, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607811088 XXXX 1746607811088, Thread 3931: XXXX 1746607811088, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607811200 XXXX 1746607811200, Thread 3931: XXXX 1746607811200, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607811200 XXXX 1746607811200, Thread 3931: XXXX 1746607811200, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607811311 XXXX 1746607811311, Thread 3931: XXXX 1746607811311, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607811311 XXXX 1746607811311, Thread 3931: XXXX 1746607811311, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607811424 XXXX 1746607811424, Thread 3931: XXXX 1746607811424, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607811424 XXXX 1746607811424, Thread 3931: XXXX 1746607811424, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607811535 XXXX 1746607811535, Thread 3931: XXXX 1746607811535, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607811535 XXXX 1746607811535, Thread 3931: XXXX 1746607811535, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607811648 XXXX 1746607811648, Thread 3931: XXXX 1746607811648, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607811648 XXXX 1746607811648, Thread 3931: XXXX 1746607811648, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607811759 XXXX 1746607811759, Thread 3931: XXXX 1746607811759, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607811759 XXXX 1746607811759, Thread 3931: XXXX 1746607811759, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607811872 XXXX 1746607811872, Thread 3931: XXXX 1746607811872, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607811872 XXXX 1746607811872, Thread 3931: XXXX 1746607811872, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607811984 XXXX 1746607811984, Thread 3931: XXXX 1746607811984, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607811984 XXXX 1746607811984, Thread 3931: XXXX 1746607811984, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607812095 XXXX 1746607812095, Thread 3931: XXXX 1746607812095, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607812095 XXXX 1746607812095, Thread 3931: XXXX 1746607812095, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607812207 XXXX 1746607812207, Thread 3931: XXXX 1746607812207, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607812207 XXXX 1746607812207, Thread 3931: XXXX 1746607812207, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607812318 XXXX 1746607812318, Thread 3931: XXXX 1746607812318, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607812318 XXXX 1746607812318, Thread 3931: XXXX 1746607812318, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607812430 XXXX 1746607812430, Thread 3931: XXXX 1746607812430, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607812430 XXXX 1746607812430, Thread 3931: XXXX 1746607812430, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607812542 XXXX 1746607812542, Thread 3931: XXXX 1746607812542, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607812542 XXXX 1746607812542, Thread 3931: XXXX 1746607812542, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607812654 XXXX 1746607812654, Thread 3931: XXXX 1746607812654, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607812654 XXXX 1746607812654, Thread 3931: XXXX 1746607812654, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607812768 XXXX 1746607812768, Thread 3931: XXXX 1746607812768, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607812768 XXXX 1746607812768, Thread 3931: XXXX 1746607812768, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607812878 XXXX 1746607812878, Thread 3931: XXXX 1746607812878, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607812878 XXXX 1746607812878, Thread 3931: XXXX 1746607812878, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607812991 XXXX 1746607812991, Thread 3931: XXXX 1746607812991, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607812991 XXXX 1746607812991, Thread 3931: XXXX 1746607812991, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607813102 XXXX 1746607813102, Thread 3931: XXXX 1746607813102, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607813102 XXXX 1746607813102, Thread 3931: XXXX 1746607813102, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607813214 XXXX 1746607813214, Thread 3931: XXXX 1746607813214, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607813214 XXXX 1746607813214, Thread 3931: XXXX 1746607813214, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607813327 XXXX 1746607813327, Thread 3931: XXXX 1746607813327, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607813327 XXXX 1746607813327, Thread 3931: XXXX 1746607813327, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607813440 XXXX 1746607813440, Thread 3931: XXXX 1746607813440, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607813440 XXXX 1746607813440, Thread 3931: XXXX 1746607813440, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607813550 XXXX 1746607813550, Thread 3931: XXXX 1746607813550, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607813550 XXXX 1746607813550, Thread 3931: XXXX 1746607813550, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607813662 XXXX 1746607813662, Thread 3931: XXXX 1746607813662, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607813662 XXXX 1746607813662, Thread 3931: XXXX 1746607813662, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607813774 XXXX 1746607813774, Thread 3931: XXXX 1746607813774, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607813774 XXXX 1746607813774, Thread 3931: XXXX 1746607813774, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607813887 XXXX 1746607813887, Thread 3931: XXXX 1746607813887, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607813887 XXXX 1746607813887, Thread 3931: XXXX 1746607813887, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607813999 XXXX 1746607813999, Thread 3931: XXXX 1746607813999, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607813999 XXXX 1746607813999, Thread 3931: XXXX 1746607813999, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607814110 XXXX 1746607814110, Thread 3931: XXXX 1746607814110, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607814110 XXXX 1746607814110, Thread 3931: XXXX 1746607814110, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607814221 XXXX 1746607814221, Thread 3931: XXXX 1746607814221, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607814221 XXXX 1746607814221, Thread 3931: XXXX 1746607814221, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607814334 XXXX 1746607814334, Thread 3931: XXXX 1746607814334, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607814334 XXXX 1746607814334, Thread 3931: XXXX 1746607814334, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607814446 XXXX 1746607814446, Thread 3931: XXXX 1746607814446, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607814446 XXXX 1746607814446, Thread 3931: XXXX 1746607814446, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607814558 XXXX 1746607814558, Thread 3931: XXXX 1746607814558, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607814558 XXXX 1746607814558, Thread 3931: XXXX 1746607814558, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607814670 XXXX 1746607814670, Thread 3931: XXXX 1746607814670, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607814670 XXXX 1746607814670, Thread 3931: XXXX 1746607814670, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607814783 XXXX 1746607814783, Thread 3931: XXXX 1746607814783, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607814783 XXXX 1746607814783, Thread 3931: XXXX 1746607814783, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607814895 XXXX 1746607814895, Thread 3931: XXXX 1746607814895, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607814895 XXXX 1746607814895, Thread 3931: XXXX 1746607814895, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607815007 XXXX 1746607815007, Thread 3931: XXXX 1746607815007, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607815007 XXXX 1746607815007, Thread 3931: XXXX 1746607815007, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607815118 XXXX 1746607815118, Thread 3931: XXXX 1746607815118, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607815118 XXXX 1746607815118, Thread 3931: XXXX 1746607815118, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607815230 XXXX 1746607815230, Thread 3931: XXXX 1746607815230, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607815230 XXXX 1746607815230, Thread 3931: XXXX 1746607815230, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607815342 XXXX 1746607815342, Thread 3931: XXXX 1746607815342, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607815342 XXXX 1746607815342, Thread 3931: XXXX 1746607815342, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607815455 XXXX 1746607815455, Thread 3931: XXXX 1746607815455, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607815455 XXXX 1746607815455, Thread 3931: XXXX 1746607815455, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607815566 XXXX 1746607815566, Thread 3931: XXXX 1746607815566, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607815566 XXXX 1746607815566, Thread 3931: XXXX 1746607815566, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607815678 XXXX 1746607815678, Thread 3931: XXXX 1746607815678, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607815678 XXXX 1746607815678, Thread 3931: XXXX 1746607815678, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607815790 XXXX 1746607815790, Thread 3931: XXXX 1746607815790, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607815790 XXXX 1746607815790, Thread 3931: XXXX 1746607815790, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607815903 XXXX 1746607815903, Thread 3931: XXXX 1746607815903, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607815903 XXXX 1746607815903, Thread 3931: XXXX 1746607815903, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607816014 XXXX 1746607816014, Thread 3931: XXXX 1746607816014, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607816014 XXXX 1746607816014, Thread 3931: XXXX 1746607816014, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607816126 XXXX 1746607816126, Thread 3931: XXXX 1746607816126, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607816126 XXXX 1746607816126, Thread 3931: XXXX 1746607816126, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607816237 XXXX 1746607816237, Thread 3931: XXXX 1746607816237, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607816237 XXXX 1746607816237, Thread 3931: XXXX 1746607816237, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607816350 XXXX 1746607816350, Thread 3931: XXXX 1746607816350, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607816350 XXXX 1746607816350, Thread 3931: XXXX 1746607816350, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607816462 XXXX 1746607816462, Thread 3931: XXXX 1746607816462, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607816462 XXXX 1746607816462, Thread 3931: XXXX 1746607816462, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607816574 XXXX 1746607816574, Thread 3931: XXXX 1746607816574, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607816574 XXXX 1746607816574, Thread 3931: XXXX 1746607816574, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607816686 XXXX 1746607816686, Thread 3931: XXXX 1746607816686, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607816686 XXXX 1746607816686, Thread 3931: XXXX 1746607816686, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607816797 XXXX 1746607816797, Thread 3931: XXXX 1746607816797, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607816797 XXXX 1746607816797, Thread 3931: XXXX 1746607816797, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607816909 XXXX 1746607816909, Thread 3931: XXXX 1746607816909, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607816909 XXXX 1746607816909, Thread 3931: XXXX 1746607816909, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607817021 XXXX 1746607817021, Thread 3931: XXXX 1746607817021, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607817021 XXXX 1746607817021, Thread 3931: XXXX 1746607817021, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607817132 XXXX 1746607817132, Thread 3931: XXXX 1746607817132, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607817132 XXXX 1746607817132, Thread 3931: XXXX 1746607817132, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607817245 XXXX 1746607817245, Thread 3931: XXXX 1746607817245, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607817245 XXXX 1746607817245, Thread 3931: XXXX 1746607817245, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607817357 XXXX 1746607817357, Thread 3931: XXXX 1746607817357, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607817357 XXXX 1746607817357, Thread 3931: XXXX 1746607817357, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607817469 XXXX 1746607817469, Thread 3931: XXXX 1746607817469, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607817469 XXXX 1746607817469, Thread 3931: XXXX 1746607817469, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607817580 XXXX 1746607817580, Thread 3931: XXXX 1746607817580, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607817580 XXXX 1746607817580, Thread 3931: XXXX 1746607817580, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607817690 XXXX 1746607817690, Thread 3931: XXXX 1746607817690, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607817690 XXXX 1746607817690, Thread 3931: XXXX 1746607817690, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607817801 XXXX 1746607817801, Thread 3931: XXXX 1746607817801, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607817801 XXXX 1746607817801, Thread 3931: XXXX 1746607817801, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607817913 XXXX 1746607817913, Thread 3931: XXXX 1746607817913, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607817913 XXXX 1746607817913, Thread 3931: XXXX 1746607817913, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607818024 XXXX 1746607818024, Thread 3931: XXXX 1746607818024, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607818024 XXXX 1746607818024, Thread 3931: XXXX 1746607818024, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607818134 XXXX 1746607818134, Thread 3931: XXXX 1746607818134, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607818134 XXXX 1746607818134, Thread 3931: XXXX 1746607818134, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607818245 XXXX 1746607818245, Thread 3931: XXXX 1746607818245, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607818247 XXXX 1746607818247, Thread 3931: XXXX 1746607818247, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607818357 XXXX 1746607818357, Thread 3931: XXXX 1746607818357, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607818357 XXXX 1746607818357, Thread 3931: XXXX 1746607818357, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607818468 XXXX 1746607818468, Thread 3931: XXXX 1746607818468, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607818468 XXXX 1746607818468, Thread 3931: XXXX 1746607818468, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607818579 XXXX 1746607818579, Thread 3931: XXXX 1746607818579, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607818579 XXXX 1746607818579, Thread 3931: XXXX 1746607818579, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607818689 XXXX 1746607818689, Thread 3931: XXXX 1746607818689, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607818689 XXXX 1746607818689, Thread 3931: XXXX 1746607818689, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607818802 XXXX 1746607818802, Thread 3931: XXXX 1746607818802, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607818802 XXXX 1746607818802, Thread 3931: XXXX 1746607818802, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607818913 XXXX 1746607818913, Thread 3931: XXXX 1746607818913, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607818913 XXXX 1746607818913, Thread 3931: XXXX 1746607818913, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607819025 XXXX 1746607819025, Thread 3931: XXXX 1746607819025, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607819025 XXXX 1746607819025, Thread 3931: XXXX 1746607819025, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607819137 XXXX 1746607819137, Thread 3931: XXXX 1746607819137, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607819137 XXXX 1746607819137, Thread 3931: XXXX 1746607819137, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607819248 XXXX 1746607819248, Thread 3931: XXXX 1746607819248, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607819248 XXXX 1746607819248, Thread 3931: XXXX 1746607819248, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607819360 XXXX 1746607819360, Thread 3931: XXXX 1746607819360, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607819360 XXXX 1746607819360, Thread 3931: XXXX 1746607819360, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607819473 XXXX 1746607819473, Thread 3931: XXXX 1746607819473, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607819473 XXXX 1746607819473, Thread 3931: XXXX 1746607819473, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607819584 XXXX 1746607819584, Thread 3931: XXXX 1746607819584, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607819584 XXXX 1746607819584, Thread 3931: XXXX 1746607819584, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607819695 XXXX 1746607819695, Thread 3931: XXXX 1746607819695, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607819695 XXXX 1746607819695, Thread 3931: XXXX 1746607819695, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607819807 XXXX 1746607819807, Thread 3931: XXXX 1746607819807, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607819807 XXXX 1746607819807, Thread 3931: XXXX 1746607819807, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607819919 XXXX 1746607819919, Thread 3931: XXXX 1746607819919, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607819919 XXXX 1746607819919, Thread 3931: XXXX 1746607819919, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607820031 XXXX 1746607820031, Thread 3931: XXXX 1746607820031, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607820031 XXXX 1746607820031, Thread 3931: XXXX 1746607820031, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607820142 XXXX 1746607820142, Thread 3931: XXXX 1746607820142, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607820142 XXXX 1746607820142, Thread 3931: XXXX 1746607820142, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607820253 XXXX 1746607820253, Thread 3931: XXXX 1746607820253, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607820253 XXXX 1746607820253, Thread 3931: XXXX 1746607820253, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607820365 XXXX 1746607820365, Thread 3931: XXXX 1746607820365, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607820365 XXXX 1746607820365, Thread 3931: XXXX 1746607820365, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607820478 XXXX 1746607820478, Thread 3931: XXXX 1746607820478, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607820478 XXXX 1746607820478, Thread 3931: XXXX 1746607820478, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607820590 XXXX 1746607820590, Thread 3931: XXXX 1746607820590, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607820590 XXXX 1746607820590, Thread 3931: XXXX 1746607820590, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607820702 XXXX 1746607820702, Thread 3931: XXXX 1746607820702, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607820702 XXXX 1746607820702, Thread 3931: XXXX 1746607820702, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607820814 XXXX 1746607820814, Thread 3931: XXXX 1746607820814, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607820814 XXXX 1746607820814, Thread 3931: XXXX 1746607820814, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607820926 XXXX 1746607820926, Thread 3931: XXXX 1746607820926, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607820926 XXXX 1746607820926, Thread 3931: XXXX 1746607820926, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607821038 XXXX 1746607821038, Thread 3931: XXXX 1746607821038, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607821038 XXXX 1746607821038, Thread 3931: XXXX 1746607821038, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607821149 XXXX 1746607821149, Thread 3931: XXXX 1746607821149, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607821149 XXXX 1746607821149, Thread 3931: XXXX 1746607821149, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607821260 XXXX 1746607821260, Thread 3931: XXXX 1746607821260, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607821260 XXXX 1746607821260, Thread 3931: XXXX 1746607821260, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607821373 XXXX 1746607821373, Thread 3931: XXXX 1746607821373, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607821373 XXXX 1746607821373, Thread 3931: XXXX 1746607821373, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607821485 XXXX 1746607821485, Thread 3931: XXXX 1746607821485, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607821485 XXXX 1746607821485, Thread 3931: XXXX 1746607821485, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607821596 XXXX 1746607821596, Thread 3931: XXXX 1746607821596, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607821596 XXXX 1746607821596, Thread 3931: XXXX 1746607821596, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607821708 XXXX 1746607821708, Thread 3931: XXXX 1746607821708, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607821708 XXXX 1746607821708, Thread 3931: XXXX 1746607821708, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607821820 XXXX 1746607821820, Thread 3931: XXXX 1746607821820, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607821820 XXXX 1746607821820, Thread 3931: XXXX 1746607821820, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607821933 XXXX 1746607821933, Thread 3931: XXXX 1746607821933, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607821933 XXXX 1746607821933, Thread 3931: XXXX 1746607821933, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607822044 XXXX 1746607822044, Thread 3931: XXXX 1746607822044, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607822044 XXXX 1746607822044, Thread 3931: XXXX 1746607822044, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607822156 XXXX 1746607822156, Thread 3931: XXXX 1746607822156, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607822156 XXXX 1746607822156, Thread 3931: XXXX 1746607822156, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607822267 XXXX 1746607822267, Thread 3931: XXXX 1746607822267, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607822267 XXXX 1746607822267, Thread 3931: XXXX 1746607822267, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607822379 XXXX 1746607822379, Thread 3931: XXXX 1746607822379, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607822379 XXXX 1746607822379, Thread 3931: XXXX 1746607822379, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607822492 XXXX 1746607822492, Thread 3931: XXXX 1746607822492, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607822492 XXXX 1746607822492, Thread 3931: XXXX 1746607822492, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607822604 XXXX 1746607822604, Thread 3931: XXXX 1746607822604, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607822604 XXXX 1746607822604, Thread 3931: XXXX 1746607822604, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607822715 XXXX 1746607822715, Thread 3931: XXXX 1746607822715, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607822715 XXXX 1746607822715, Thread 3931: XXXX 1746607822715, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607822827 XXXX 1746607822827, Thread 3931: XXXX 1746607822827, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607822827 XXXX 1746607822827, Thread 3931: XXXX 1746607822827, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607822941 XXXX 1746607822941, Thread 3931: XXXX 1746607822941, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607822941 XXXX 1746607822941, Thread 3931: XXXX 1746607822941, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607823052 XXXX 1746607823052, Thread 3931: XXXX 1746607823052, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607823052 XXXX 1746607823052, Thread 3931: XXXX 1746607823052, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607823164 XXXX 1746607823164, Thread 3931: XXXX 1746607823164, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607823164 XXXX 1746607823164, Thread 3931: XXXX 1746607823164, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607823275 XXXX 1746607823275, Thread 3931: XXXX 1746607823275, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607823275 XXXX 1746607823275, Thread 3931: XXXX 1746607823275, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607823387 XXXX 1746607823387, Thread 3931: XXXX 1746607823387, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607823387 XXXX 1746607823387, Thread 3931: XXXX 1746607823387, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607823499 XXXX 1746607823499, Thread 3931: XXXX 1746607823499, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607823499 XXXX 1746607823499, Thread 3931: XXXX 1746607823499, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607823611 XXXX 1746607823611, Thread 3931: XXXX 1746607823611, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607823611 XXXX 1746607823611, Thread 3931: XXXX 1746607823611, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607823722 XXXX 1746607823722, Thread 3931: XXXX 1746607823722, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607823722 XXXX 1746607823722, Thread 3931: XXXX 1746607823722, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607823834 XXXX 1746607823834, Thread 3931: XXXX 1746607823834, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607823834 XXXX 1746607823834, Thread 3931: XXXX 1746607823834, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607823947 XXXX 1746607823947, Thread 3931: XXXX 1746607823947, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607823947 XXXX 1746607823947, Thread 3931: XXXX 1746607823947, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607824058 XXXX 1746607824058, Thread 3931: XXXX 1746607824058, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607824058 XXXX 1746607824058, Thread 3931: XXXX 1746607824058, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607824170 XXXX 1746607824170, Thread 3931: XXXX 1746607824170, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607824170 XXXX 1746607824170, Thread 3931: XXXX 1746607824170, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607824281 XXXX 1746607824281, Thread 3931: XXXX 1746607824281, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607824281 XXXX 1746607824281, Thread 3931: XXXX 1746607824281, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607824394 XXXX 1746607824394, Thread 3931: XXXX 1746607824394, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607824394 XXXX 1746607824394, Thread 3931: XXXX 1746607824394, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607824505 XXXX 1746607824505, Thread 3931: XXXX 1746607824505, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607824505 XXXX 1746607824505, Thread 3931: XXXX 1746607824505, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607824617 XXXX 1746607824617, Thread 3931: XXXX 1746607824617, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607824617 XXXX 1746607824617, Thread 3931: XXXX 1746607824617, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607824729 XXXX 1746607824729, Thread 3931: XXXX 1746607824729, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607824729 XXXX 1746607824729, Thread 3931: XXXX 1746607824729, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607824841 XXXX 1746607824841, Thread 3931: XXXX 1746607824841, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607824841 XXXX 1746607824841, Thread 3931: XXXX 1746607824841, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607824954 XXXX 1746607824954, Thread 3931: XXXX 1746607824954, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607824954 XXXX 1746607824954, Thread 3931: XXXX 1746607824954, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607825065 XXXX 1746607825065, Thread 3931: XXXX 1746607825065, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607825065 XXXX 1746607825065, Thread 3931: XXXX 1746607825065, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607825176 XXXX 1746607825176, Thread 3931: XXXX 1746607825176, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607825176 XXXX 1746607825176, Thread 3931: XXXX 1746607825176, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607825288 XXXX 1746607825288, Thread 3931: XXXX 1746607825288, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607825288 XXXX 1746607825288, Thread 3931: XXXX 1746607825288, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607825401 XXXX 1746607825401, Thread 3931: XXXX 1746607825401, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607825401 XXXX 1746607825401, Thread 3931: XXXX 1746607825401, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607825513 XXXX 1746607825513, Thread 3931: XXXX 1746607825513, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607825513 XXXX 1746607825513, Thread 3931: XXXX 1746607825513, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607825625 XXXX 1746607825625, Thread 3931: XXXX 1746607825625, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607825625 XXXX 1746607825625, Thread 3931: XXXX 1746607825625, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607825737 XXXX 1746607825737, Thread 3931: XXXX 1746607825737, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607825737 XXXX 1746607825737, Thread 3931: XXXX 1746607825737, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607825850 XXXX 1746607825850, Thread 3931: XXXX 1746607825850, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607825850 XXXX 1746607825850, Thread 3931: XXXX 1746607825850, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607825962 XXXX 1746607825962, Thread 3931: XXXX 1746607825962, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607825962 XXXX 1746607825962, Thread 3931: XXXX 1746607825962, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607826073 XXXX 1746607826073, Thread 3931: XXXX 1746607826073, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607826073 XXXX 1746607826073, Thread 3931: XXXX 1746607826073, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607826184 XXXX 1746607826184, Thread 3931: XXXX 1746607826184, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607826184 XXXX 1746607826184, Thread 3931: XXXX 1746607826184, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607826296 XXXX 1746607826296, Thread 3931: XXXX 1746607826296, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607826296 XXXX 1746607826296, Thread 3931: XXXX 1746607826296, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607826408 XXXX 1746607826408, Thread 3931: XXXX 1746607826408, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607826408 XXXX 1746607826408, Thread 3931: XXXX 1746607826408, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607826520 XXXX 1746607826520, Thread 3931: XXXX 1746607826520, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607826520 XXXX 1746607826520, Thread 3931: XXXX 1746607826520, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607826631 XXXX 1746607826631, Thread 3931: XXXX 1746607826631, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607826631 XXXX 1746607826631, Thread 3931: XXXX 1746607826631, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607826744 XXXX 1746607826744, Thread 3931: XXXX 1746607826744, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607826744 XXXX 1746607826744, Thread 3931: XXXX 1746607826744, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607826855 XXXX 1746607826855, Thread 3931: XXXX 1746607826855, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607826855 XXXX 1746607826855, Thread 3931: XXXX 1746607826855, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607826968 XXXX 1746607826968, Thread 3931: XXXX 1746607826968, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607826968 XXXX 1746607826968, Thread 3931: XXXX 1746607826968, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607827079 XXXX 1746607827079, Thread 3931: XXXX 1746607827079, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607827079 XXXX 1746607827079, Thread 3931: XXXX 1746607827079, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607827191 XXXX 1746607827191, Thread 3931: XXXX 1746607827191, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607827191 XXXX 1746607827191, Thread 3931: XXXX 1746607827191, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607827303 XXXX 1746607827303, Thread 3931: XXXX 1746607827303, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607827303 XXXX 1746607827303, Thread 3931: XXXX 1746607827303, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607827415 XXXX 1746607827415, Thread 3931: XXXX 1746607827415, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607827415 XXXX 1746607827415, Thread 3931: XXXX 1746607827415, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607827526 XXXX 1746607827526, Thread 3931: XXXX 1746607827526, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607827526 XXXX 1746607827526, Thread 3931: XXXX 1746607827526, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607827638 XXXX 1746607827638, Thread 3931: XXXX 1746607827638, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607827638 XXXX 1746607827638, Thread 3931: XXXX 1746607827638, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607827749 XXXX 1746607827749, Thread 3931: XXXX 1746607827749, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607827749 XXXX 1746607827749, Thread 3931: XXXX 1746607827749, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607827861 XXXX 1746607827861, Thread 3931: XXXX 1746607827861, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607827861 XXXX 1746607827861, Thread 3931: XXXX 1746607827861, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607827974 XXXX 1746607827974, Thread 3931: XXXX 1746607827974, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607827974 XXXX 1746607827974, Thread 3931: XXXX 1746607827974, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607828085 XXXX 1746607828085, Thread 3931: XXXX 1746607828085, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607828085 XXXX 1746607828085, Thread 3931: XXXX 1746607828085, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607828197 XXXX 1746607828197, Thread 3931: XXXX 1746607828197, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607828197 XXXX 1746607828197, Thread 3931: XXXX 1746607828197, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607828308 XXXX 1746607828308, Thread 3931: XXXX 1746607828308, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607828308 XXXX 1746607828308, Thread 3931: XXXX 1746607828308, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607828421 XXXX 1746607828421, Thread 3931: XXXX 1746607828421, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607828421 XXXX 1746607828421, Thread 3931: XXXX 1746607828421, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607828533 XXXX 1746607828533, Thread 3931: XXXX 1746607828533, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607828533 XXXX 1746607828533, Thread 3931: XXXX 1746607828533, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607828645 XXXX 1746607828645, Thread 3931: XXXX 1746607828645, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607828645 XXXX 1746607828645, Thread 3931: XXXX 1746607828645, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607828756 XXXX 1746607828756, Thread 3931: XXXX 1746607828756, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607828756 XXXX 1746607828756, Thread 3931: XXXX 1746607828756, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607828868 XXXX 1746607828868, Thread 3931: XXXX 1746607828868, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607828868 XXXX 1746607828868, Thread 3931: XXXX 1746607828868, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607828981 XXXX 1746607828981, Thread 3931: XXXX 1746607828981, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607828981 XXXX 1746607828981, Thread 3931: XXXX 1746607828981, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607829093 XXXX 1746607829093, Thread 3931: XXXX 1746607829093, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607829093 XXXX 1746607829093, Thread 3931: XXXX 1746607829093, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607829204 XXXX 1746607829204, Thread 3931: XXXX 1746607829204, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607829204 XXXX 1746607829204, Thread 3931: XXXX 1746607829204, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607829316 XXXX 1746607829316, Thread 3931: XXXX 1746607829316, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607829316 XXXX 1746607829316, Thread 3931: XXXX 1746607829316, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607829428 XXXX 1746607829428, Thread 3931: XXXX 1746607829428, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607829428 XXXX 1746607829428, Thread 3931: XXXX 1746607829428, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607829541 XXXX 1746607829541, Thread 3931: XXXX 1746607829541, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607829541 XXXX 1746607829541, Thread 3931: XXXX 1746607829541, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607829653 XXXX 1746607829653, Thread 3931: XXXX 1746607829653, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607829653 XXXX 1746607829653, Thread 3931: XXXX 1746607829653, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607829764 XXXX 1746607829764, Thread 3931: XXXX 1746607829764, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607829764 XXXX 1746607829764, Thread 3931: XXXX 1746607829764, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607829877 XXXX 1746607829877, Thread 3931: XXXX 1746607829877, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607829877 XXXX 1746607829877, Thread 3931: XXXX 1746607829877, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607829989 XXXX 1746607829989, Thread 3931: XXXX 1746607829989, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607829989 XXXX 1746607829989, Thread 3931: XXXX 1746607829989, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607830101 XXXX 1746607830101, Thread 3931: XXXX 1746607830101, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607830101 XXXX 1746607830101, Thread 3931: XXXX 1746607830101, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607830213 XXXX 1746607830213, Thread 3931: XXXX 1746607830213, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607830213 XXXX 1746607830213, Thread 3931: XXXX 1746607830213, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607830326 XXXX 1746607830326, Thread 3931: XXXX 1746607830326, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607830326 XXXX 1746607830326, Thread 3931: XXXX 1746607830326, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607830438 XXXX 1746607830438, Thread 3931: XXXX 1746607830438, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607830438 XXXX 1746607830438, Thread 3931: XXXX 1746607830438, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607830550 XXXX 1746607830550, Thread 3931: XXXX 1746607830550, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607830550 XXXX 1746607830550, Thread 3931: XXXX 1746607830550, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607830662 XXXX 1746607830662, Thread 3931: XXXX 1746607830662, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607830662 XXXX 1746607830662, Thread 3931: XXXX 1746607830662, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607830774 XXXX 1746607830774, Thread 3931: XXXX 1746607830774, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607830774 XXXX 1746607830774, Thread 3931: XXXX 1746607830774, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607830886 XXXX 1746607830886, Thread 3931: XXXX 1746607830886, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607830886 XXXX 1746607830886, Thread 3931: XXXX 1746607830886, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607830998 XXXX 1746607830998, Thread 3931: XXXX 1746607830998, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607830998 XXXX 1746607830998, Thread 3931: XXXX 1746607830998, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607831110 XXXX 1746607831110, Thread 3931: XXXX 1746607831110, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607831110 XXXX 1746607831110, Thread 3931: XXXX 1746607831110, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607831222 XXXX 1746607831222, Thread 3931: XXXX 1746607831222, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607831222 XXXX 1746607831222, Thread 3931: XXXX 1746607831222, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607831334 XXXX 1746607831334, Thread 3931: XXXX 1746607831334, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607831334 XXXX 1746607831334, Thread 3931: XXXX 1746607831334, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607831446 XXXX 1746607831446, Thread 3931: XXXX 1746607831446, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607831446 XXXX 1746607831446, Thread 3931: XXXX 1746607831446, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607831558 XXXX 1746607831558, Thread 3931: XXXX 1746607831558, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607831558 XXXX 1746607831558, Thread 3931: XXXX 1746607831558, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607831669 XXXX 1746607831669, Thread 3931: XXXX 1746607831669, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607831669 XXXX 1746607831669, Thread 3931: XXXX 1746607831669, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607831781 XXXX 1746607831781, Thread 3931: XXXX 1746607831781, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607831781 XXXX 1746607831781, Thread 3931: XXXX 1746607831781, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607831894 XXXX 1746607831894, Thread 3931: XXXX 1746607831894, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607831894 XXXX 1746607831894, Thread 3931: XXXX 1746607831894, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607832006 XXXX 1746607832006, Thread 3931: XXXX 1746607832006, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607832006 XXXX 1746607832006, Thread 3931: XXXX 1746607832006, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607832118 XXXX 1746607832118, Thread 3931: XXXX 1746607832118, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607832118 XXXX 1746607832118, Thread 3931: XXXX 1746607832118, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607832230 XXXX 1746607832230, Thread 3931: XXXX 1746607832230, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607832230 XXXX 1746607832230, Thread 3931: XXXX 1746607832230, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607832342 XXXX 1746607832342, Thread 3931: XXXX 1746607832342, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607832342 XXXX 1746607832342, Thread 3931: XXXX 1746607832342, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607832454 XXXX 1746607832454, Thread 3931: XXXX 1746607832454, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607832454 XXXX 1746607832454, Thread 3931: XXXX 1746607832454, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607832566 XXXX 1746607832566, Thread 3931: XXXX 1746607832566, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607832566 XXXX 1746607832566, Thread 3931: XXXX 1746607832566, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607832677 XXXX 1746607832677, Thread 3931: XXXX 1746607832677, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607832677 XXXX 1746607832677, Thread 3931: XXXX 1746607832677, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607832789 XXXX 1746607832789, Thread 3931: XXXX 1746607832789, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607832789 XXXX 1746607832789, Thread 3931: XXXX 1746607832789, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607832901 XXXX 1746607832901, Thread 3931: XXXX 1746607832901, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607832901 XXXX 1746607832901, Thread 3931: XXXX 1746607832901, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607833013 XXXX 1746607833013, Thread 3931: XXXX 1746607833013, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607833013 XXXX 1746607833013, Thread 3931: XXXX 1746607833013, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607833124 XXXX 1746607833124, Thread 3931: XXXX 1746607833124, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607833124 XXXX 1746607833124, Thread 3931: XXXX 1746607833124, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607833236 XXXX 1746607833236, Thread 3931: XXXX 1746607833236, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607833236 XXXX 1746607833236, Thread 3931: XXXX 1746607833236, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607833349 XXXX 1746607833349, Thread 3931: XXXX 1746607833349, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607833349 XXXX 1746607833349, Thread 3931: XXXX 1746607833349, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607833461 XXXX 1746607833461, Thread 3931: XXXX 1746607833461, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607833461 XXXX 1746607833461, Thread 3931: XXXX 1746607833461, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607833572 XXXX 1746607833572, Thread 3931: XXXX 1746607833572, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607833572 XXXX 1746607833572, Thread 3931: XXXX 1746607833572, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607833684 XXXX 1746607833684, Thread 3931: XXXX 1746607833684, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607833684 XXXX 1746607833684, Thread 3931: XXXX 1746607833684, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607833796 XXXX 1746607833796, Thread 3931: XXXX 1746607833796, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607833796 XXXX 1746607833796, Thread 3931: XXXX 1746607833796, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607833908 XXXX 1746607833908, Thread 3931: XXXX 1746607833908, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607833908 XXXX 1746607833908, Thread 3931: XXXX 1746607833908, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607834020 XXXX 1746607834020, Thread 3931: XXXX 1746607834020, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607834020 XXXX 1746607834020, Thread 3931: XXXX 1746607834020, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607834132 XXXX 1746607834132, Thread 3931: XXXX 1746607834132, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607834132 XXXX 1746607834132, Thread 3931: XXXX 1746607834132, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607834243 XXXX 1746607834243, Thread 3931: XXXX 1746607834243, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607834243 XXXX 1746607834243, Thread 3931: XXXX 1746607834243, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607834356 XXXX 1746607834356, Thread 3931: XXXX 1746607834356, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607834356 XXXX 1746607834356, Thread 3931: XXXX 1746607834356, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607834469 XXXX 1746607834469, Thread 3931: XXXX 1746607834469, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607834469 XXXX 1746607834469, Thread 3931: XXXX 1746607834469, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607834580 XXXX 1746607834580, Thread 3931: XXXX 1746607834580, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607834580 XXXX 1746607834580, Thread 3931: XXXX 1746607834580, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607834692 XXXX 1746607834692, Thread 3931: XXXX 1746607834692, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607834692 XXXX 1746607834692, Thread 3931: XXXX 1746607834692, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607834803 XXXX 1746607834803, Thread 3931: XXXX 1746607834803, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607834803 XXXX 1746607834803, Thread 3931: XXXX 1746607834803, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607834916 XXXX 1746607834916, Thread 3931: XXXX 1746607834916, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607834916 XXXX 1746607834916, Thread 3931: XXXX 1746607834916, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607835028 XXXX 1746607835028, Thread 3931: XXXX 1746607835028, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607835028 XXXX 1746607835028, Thread 3931: XXXX 1746607835028, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607835139 XXXX 1746607835139, Thread 3931: XXXX 1746607835139, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607835139 XXXX 1746607835139, Thread 3931: XXXX 1746607835139, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607835250 XXXX 1746607835250, Thread 3931: XXXX 1746607835250, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607835250 XXXX 1746607835250, Thread 3931: XXXX 1746607835250, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607835362 XXXX 1746607835362, Thread 3931: XXXX 1746607835362, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607835362 XXXX 1746607835362, Thread 3931: XXXX 1746607835362, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607835475 XXXX 1746607835475, Thread 3931: XXXX 1746607835475, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607835475 XXXX 1746607835475, Thread 3931: XXXX 1746607835475, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607835587 XXXX 1746607835587, Thread 3931: XXXX 1746607835587, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607835587 XXXX 1746607835587, Thread 3931: XXXX 1746607835587, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607835700 XXXX 1746607835700, Thread 3931: XXXX 1746607835700, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607835700 XXXX 1746607835700, Thread 3931: XXXX 1746607835700, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607835811 XXXX 1746607835811, Thread 3931: XXXX 1746607835811, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607835811 XXXX 1746607835811, Thread 3931: XXXX 1746607835811, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607835924 XXXX 1746607835924, Thread 3931: XXXX 1746607835924, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607835924 XXXX 1746607835924, Thread 3931: XXXX 1746607835924, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607836036 XXXX 1746607836036, Thread 3931: XXXX 1746607836036, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607836036 XXXX 1746607836036, Thread 3931: XXXX 1746607836036, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607836148 XXXX 1746607836148, Thread 3931: XXXX 1746607836148, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607836148 XXXX 1746607836148, Thread 3931: XXXX 1746607836148, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607836259 XXXX 1746607836259, Thread 3931: XXXX 1746607836259, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607836259 XXXX 1746607836259, Thread 3931: XXXX 1746607836259, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607836372 XXXX 1746607836372, Thread 3931: XXXX 1746607836372, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607836372 XXXX 1746607836372, Thread 3931: XXXX 1746607836372, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607836484 XXXX 1746607836484, Thread 3931: XXXX 1746607836484, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607836484 XXXX 1746607836484, Thread 3931: XXXX 1746607836484, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607836596 XXXX 1746607836596, Thread 3931: XXXX 1746607836596, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607836596 XXXX 1746607836596, Thread 3931: XXXX 1746607836596, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607836707 XXXX 1746607836707, Thread 3931: XXXX 1746607836707, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607836707 XXXX 1746607836707, Thread 3931: XXXX 1746607836707, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607836819 XXXX 1746607836819, Thread 3931: XXXX 1746607836819, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607836819 XXXX 1746607836819, Thread 3931: XXXX 1746607836819, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607836930 XXXX 1746607836930, Thread 3931: XXXX 1746607836930, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607836930 XXXX 1746607836930, Thread 3931: XXXX 1746607836930, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607837041 XXXX 1746607837041, Thread 3931: XXXX 1746607837041, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607837041 XXXX 1746607837041, Thread 3931: XXXX 1746607837041, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607837153 XXXX 1746607837153, Thread 3931: XXXX 1746607837153, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607837153 XXXX 1746607837153, Thread 3931: XXXX 1746607837153, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607837265 XXXX 1746607837265, Thread 3931: XXXX 1746607837265, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607837265 XXXX 1746607837265, Thread 3931: XXXX 1746607837265, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607837377 XXXX 1746607837377, Thread 3931: XXXX 1746607837377, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607837377 XXXX 1746607837377, Thread 3931: XXXX 1746607837377, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607837489 XXXX 1746607837489, Thread 3931: XXXX 1746607837489, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607837489 XXXX 1746607837489, Thread 3931: XXXX 1746607837489, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607837601 XXXX 1746607837601, Thread 3931: XXXX 1746607837601, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607837601 XXXX 1746607837601, Thread 3931: XXXX 1746607837601, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607837713 XXXX 1746607837713, Thread 3931: XXXX 1746607837713, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607837713 XXXX 1746607837713, Thread 3931: XXXX 1746607837713, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607837826 XXXX 1746607837826, Thread 3931: XXXX 1746607837826, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607837826 XXXX 1746607837826, Thread 3931: XXXX 1746607837826, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607837938 XXXX 1746607837938, Thread 3931: XXXX 1746607837938, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607837938 XXXX 1746607837938, Thread 3931: XXXX 1746607837938, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607838050 XXXX 1746607838050, Thread 3931: XXXX 1746607838050, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607838050 XXXX 1746607838050, Thread 3931: XXXX 1746607838050, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607838161 XXXX 1746607838161, Thread 3931: XXXX 1746607838161, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607838161 XXXX 1746607838161, Thread 3931: XXXX 1746607838161, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607838273 XXXX 1746607838273, Thread 3931: XXXX 1746607838273, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607838273 XXXX 1746607838273, Thread 3931: XXXX 1746607838273, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607838385 XXXX 1746607838385, Thread 3931: XXXX 1746607838385, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607838385 XXXX 1746607838385, Thread 3931: XXXX 1746607838385, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607838497 XXXX 1746607838497, Thread 3931: XXXX 1746607838497, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607838497 XXXX 1746607838497, Thread 3931: XXXX 1746607838497, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607838609 XXXX 1746607838609, Thread 3931: XXXX 1746607838609, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607838609 XXXX 1746607838609, Thread 3931: XXXX 1746607838609, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607838721 XXXX 1746607838721, Thread 3931: XXXX 1746607838721, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607838721 XXXX 1746607838721, Thread 3931: XXXX 1746607838721, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607838833 XXXX 1746607838833, Thread 3931: XXXX 1746607838833, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607838833 XXXX 1746607838833, Thread 3931: XXXX 1746607838833, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607838946 XXXX 1746607838946, Thread 3931: XXXX 1746607838946, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607838946 XXXX 1746607838946, Thread 3931: XXXX 1746607838946, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607839057 XXXX 1746607839057, Thread 3931: XXXX 1746607839057, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607839057 XXXX 1746607839057, Thread 3931: XXXX 1746607839057, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607839169 XXXX 1746607839169, Thread 3931: XXXX 1746607839169, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607839169 XXXX 1746607839169, Thread 3931: XXXX 1746607839169, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607839281 XXXX 1746607839281, Thread 3931: XXXX 1746607839281, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607839281 XXXX 1746607839281, Thread 3931: XXXX 1746607839281, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607839394 XXXX 1746607839394, Thread 3931: XXXX 1746607839394, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607839394 XXXX 1746607839394, Thread 3931: XXXX 1746607839394, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607839506 XXXX 1746607839506, Thread 3931: XXXX 1746607839506, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607839506 XXXX 1746607839506, Thread 3931: XXXX 1746607839506, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607839618 XXXX 1746607839618, Thread 3931: XXXX 1746607839618, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607839618 XXXX 1746607839618, Thread 3931: XXXX 1746607839618, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607839729 XXXX 1746607839729, Thread 3931: XXXX 1746607839729, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607839729 XXXX 1746607839729, Thread 3931: XXXX 1746607839729, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607839842 XXXX 1746607839842, Thread 3931: XXXX 1746607839842, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607839842 XXXX 1746607839842, Thread 3931: XXXX 1746607839842, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607839954 XXXX 1746607839954, Thread 3931: XXXX 1746607839954, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607839954 XXXX 1746607839954, Thread 3931: XXXX 1746607839954, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607840065 XXXX 1746607840065, Thread 3931: XXXX 1746607840065, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607840065 XXXX 1746607840065, Thread 3931: XXXX 1746607840065, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607840177 XXXX 1746607840177, Thread 3931: XXXX 1746607840177, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607840177 XXXX 1746607840177, Thread 3931: XXXX 1746607840177, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607840289 XXXX 1746607840289, Thread 3931: XXXX 1746607840289, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607840289 XXXX 1746607840289, Thread 3931: XXXX 1746607840289, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607840397 XXXX 1746607840397, Thread 3931: XXXX 1746607840397, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607840398 XXXX 1746607840398, Thread 3931: XXXX 1746607840398, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607840511 XXXX 1746607840511, Thread 3931: XXXX 1746607840511, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607840511 XXXX 1746607840511, Thread 3931: XXXX 1746607840511, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607840623 XXXX 1746607840623, Thread 3931: XXXX 1746607840623, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607840623 XXXX 1746607840623, Thread 3931: XXXX 1746607840623, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607840735 XXXX 1746607840735, Thread 3931: XXXX 1746607840735, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607840735 XXXX 1746607840735, Thread 3931: XXXX 1746607840735, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607840847 XXXX 1746607840847, Thread 3931: XXXX 1746607840847, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607840847 XXXX 1746607840847, Thread 3931: XXXX 1746607840847, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607840959 XXXX 1746607840959, Thread 3931: XXXX 1746607840959, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607840959 XXXX 1746607840959, Thread 3931: XXXX 1746607840959, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607841071 XXXX 1746607841071, Thread 3931: XXXX 1746607841071, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607841071 XXXX 1746607841071, Thread 3931: XXXX 1746607841071, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607841182 XXXX 1746607841182, Thread 3931: XXXX 1746607841182, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607841184 XXXX 1746607841184, Thread 3931: XXXX 1746607841184, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607841294 XXXX 1746607841294, Thread 3931: XXXX 1746607841294, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607841294 XXXX 1746607841294, Thread 3931: XXXX 1746607841294, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607841407 XXXX 1746607841407, Thread 3931: XXXX 1746607841407, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607841407 XXXX 1746607841407, Thread 3931: XXXX 1746607841407, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607841519 XXXX 1746607841519, Thread 3931: XXXX 1746607841519, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607841519 XXXX 1746607841519, Thread 3931: XXXX 1746607841519, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607841631 XXXX 1746607841631, Thread 3931: XXXX 1746607841631, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607841631 XXXX 1746607841631, Thread 3931: XXXX 1746607841631, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607841742 XXXX 1746607841742, Thread 3931: XXXX 1746607841742, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607841742 XXXX 1746607841742, Thread 3931: XXXX 1746607841742, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607841855 XXXX 1746607841855, Thread 3931: XXXX 1746607841855, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607841855 XXXX 1746607841855, Thread 3931: XXXX 1746607841855, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607841967 XXXX 1746607841967, Thread 3931: XXXX 1746607841967, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607841967 XXXX 1746607841967, Thread 3931: XXXX 1746607841967, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607842078 XXXX 1746607842078, Thread 3931: XXXX 1746607842078, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607842078 XXXX 1746607842078, Thread 3931: XXXX 1746607842078, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607842191 XXXX 1746607842191, Thread 3931: XXXX 1746607842191, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607842193 XXXX 1746607842193, Thread 3931: XXXX 1746607842193, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607842293 XXXX 1746607842293, Thread 3931: XXXX 1746607842293, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607842293 XXXX 1746607842293, Thread 3931: XXXX 1746607842293, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607842405 XXXX 1746607842405, Thread 3931: XXXX 1746607842405, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607842405 XXXX 1746607842405, Thread 3931: XXXX 1746607842405, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607842516 XXXX 1746607842516, Thread 3931: XXXX 1746607842516, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607842516 XXXX 1746607842516, Thread 3931: XXXX 1746607842516, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607842627 XXXX 1746607842627, Thread 3931: XXXX 1746607842627, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607842627 XXXX 1746607842627, Thread 3931: XXXX 1746607842627, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607842738 XXXX 1746607842738, Thread 3931: XXXX 1746607842738, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607842738 XXXX 1746607842738, Thread 3931: XXXX 1746607842738, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607842850 XXXX 1746607842850, Thread 3931: XXXX 1746607842850, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607842850 XXXX 1746607842850, Thread 3931: XXXX 1746607842850, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607842962 XXXX 1746607842962, Thread 3931: XXXX 1746607842962, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607842962 XXXX 1746607842962, Thread 3931: XXXX 1746607842962, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607843073 XXXX 1746607843073, Thread 3931: XXXX 1746607843073, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607843073 XXXX 1746607843073, Thread 3931: XXXX 1746607843073, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607843185 XXXX 1746607843185, Thread 3931: XXXX 1746607843185, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607843185 XXXX 1746607843185, Thread 3931: XXXX 1746607843185, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607843297 XXXX 1746607843297, Thread 3931: XXXX 1746607843297, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607843297 XXXX 1746607843297, Thread 3931: XXXX 1746607843297, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607843408 XXXX 1746607843408, Thread 3931: XXXX 1746607843408, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607843408 XXXX 1746607843408, Thread 3931: XXXX 1746607843408, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607843519 XXXX 1746607843519, Thread 3931: XXXX 1746607843519, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607843519 XXXX 1746607843519, Thread 3931: XXXX 1746607843519, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607843630 XXXX 1746607843630, Thread 3931: XXXX 1746607843630, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607843630 XXXX 1746607843630, Thread 3931: XXXX 1746607843630, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607843741 XXXX 1746607843741, Thread 3931: XXXX 1746607843741, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607843741 XXXX 1746607843741, Thread 3931: XXXX 1746607843741, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607843854 XXXX 1746607843854, Thread 3931: XXXX 1746607843854, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607843854 XXXX 1746607843854, Thread 3931: XXXX 1746607843854, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607843966 XXXX 1746607843966, Thread 3931: XXXX 1746607843966, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607843966 XXXX 1746607843966, Thread 3931: XXXX 1746607843966, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607844077 XXXX 1746607844077, Thread 3931: XXXX 1746607844077, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607844077 XXXX 1746607844077, Thread 3931: XXXX 1746607844077, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607844188 XXXX 1746607844188, Thread 3931: XXXX 1746607844188, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607844188 XXXX 1746607844188, Thread 3931: XXXX 1746607844188, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607844299 XXXX 1746607844299, Thread 3931: XXXX 1746607844299, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607844299 XXXX 1746607844299, Thread 3931: XXXX 1746607844299, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607844410 XXXX 1746607844410, Thread 3931: XXXX 1746607844410, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607844410 XXXX 1746607844410, Thread 3931: XXXX 1746607844410, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607844521 XXXX 1746607844521, Thread 3931: XXXX 1746607844521, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607844521 XXXX 1746607844521, Thread 3931: XXXX 1746607844521, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607844632 XXXX 1746607844632, Thread 3931: XXXX 1746607844632, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607844632 XXXX 1746607844632, Thread 3931: XXXX 1746607844632, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607844743 XXXX 1746607844743, Thread 3931: XXXX 1746607844743, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607844743 XXXX 1746607844743, Thread 3931: XXXX 1746607844743, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607844855 XXXX 1746607844855, Thread 3931: XXXX 1746607844855, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607844855 XXXX 1746607844855, Thread 3931: XXXX 1746607844855, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607844967 XXXX 1746607844967, Thread 3931: XXXX 1746607844967, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607844967 XXXX 1746607844967, Thread 3931: XXXX 1746607844967, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607845078 XXXX 1746607845078, Thread 3931: XXXX 1746607845078, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607845080 XXXX 1746607845080, Thread 3931: XXXX 1746607845080, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607845189 XXXX 1746607845189, Thread 3931: XXXX 1746607845189, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607845189 XXXX 1746607845189, Thread 3931: XXXX 1746607845189, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607845301 XXXX 1746607845301, Thread 3931: XXXX 1746607845301, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607845301 XXXX 1746607845301, Thread 3931: XXXX 1746607845301, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607845413 XXXX 1746607845413, Thread 3931: XXXX 1746607845413, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607845413 XXXX 1746607845413, Thread 3931: XXXX 1746607845413, Exiting Thread 3931: Commands::runScriptBasic  
+3931 1746607845509 XXXX 1746607845509, Thread 3931: XXXX 1746607845509, Entering Thread 3931: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+3931 1746607845509 XXXX 1746607845509, Thread 3931: XXXX 1746607845509, Exiting Thread 3931: Commands::runScriptBasic  
+
+3931 1746607845509 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC32MZ2048EFH064 Pre:HaltTarget
+3931 1746607845509 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC32MZ2048EFH064 Payload
+3931 1746607845509 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC32MZ2048EFH064 null
+3931 1746607845509 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC32MZ2048EFH064 Payload End
+3931 1746607845509 XXXX 1746607845509, Thread 3931: XXXX 1746607845509, Entering Thread 3931: Commands::runScriptBasic, script name = Halt, timeOut = -1 ms  
+3931 1746607846004 XXXX 1746607846004, Thread 3931: Type = runScript, Script name = Halt, Status = 0x601
+ 
+
+5801 1746607846020 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC32MZ2048EFH064 Pre:DebugReadNamedRegister
+5801 1746607846020 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC32MZ2048EFH064 Payload
+5801 1746607846020 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC32MZ2048EFH064 DEPC
+5801 1746607846020 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC32MZ2048EFH064 Length = 4
+5801 1746607846020 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC32MZ2048EFH064 Payload End
+5801 1746607846020 XXXX 1746607846020, Thread 5801: XXXX 1746607846020, Entering Thread 5801: Commands::runScriptWithUpload, script name = ReadRAM  
+5801 1746607846020 XXXX 1746607846020, Thread 5801: XXXX 1746607846020, Entering Thread 5801: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x300 bytes long  
+5840 1746607847022 GEN4_CONNECT_DIAGNOSTICS:MPLABCommTool is null
+5801 1746608356463 XXXX 1746608356463, Thread 5801: com.Send returned false 
+5839 1746608356463 XXXX 1746608356463, Thread 5839: ToolCommUsb::read, com.Received returned -1 
+5839 1746608356487 XXXX 1746608356487, Thread 5839: ToolCommUsb::DataReader::run, fatal RI4ControllerException: {null} 
+
+5840 1746608356505 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_PIC32MZ2048EFH064 Pre:GetFirmwareInfo
+5840 1746608356505 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_PIC32MZ2048EFH064 Payload
+5840 1746608356505 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_PIC32MZ2048EFH064 null
+5840 1746608356505 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_PIC32MZ2048EFH064 Payload End
