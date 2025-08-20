@@ -1,3 +1,2 @@
-This repo is just for my backup of all the work that i have done with the Beagle bone, Raspberry Pi, Linux etc. 
-If you want to clone this repo then inside the git_help folder there are steps/instructions to do the same.
- Thanks  
+This repository serves as a backup of my work with BeagleBone, Raspberry Pi, Linux, and related projects. If you wish to clone it, refer to the instructions in the git\_help folder.
+
