@@ -1,0 +1,58 @@
+If there are outputs in the minicom terminal without doing anything then ModemManager is working disable with the below commands:
+
+sudo systemctl stop ModemManager
+sudo systemctl disable ModemManager
+
+sudo systemctl status ModemManager
+sudo systemctl restart ModemManager
+
+
+mmcli -L (shows which modem manager is present)
+---------------------------------------------------------------------------------------
+
+If the /dev/ttyUSB* is not itself showing or the lsusb also doesn't show the modem even if the modem is connected then shutdown the Pi completely remove the SIM and brush it clean and insert it then wait a few seconds and power it ON. Then try ping, lsusb, mmcli -m 0 -> these should work. 
+
+---------------------------------------------------------------------------------------
+
+sudo nmcli radio wifi off
+ip route
+
+sudo nmcli radio wifi on
+ip route
+
+sudo minicom -D /dev/ttyUSB2 115200    -> at+clanmode?, at+clanmode=0, at+clanmode=1
+
+sudo ip route del default via 192.168.225.1 dev usb0	// to del the gsm default route
+
+sudo ip route add default via 10.1.30.1 dev wlan0	// if deleting the wifi route then, add the gsm internet to check 
+
+	
+sudo ip link set usb0 down		// this shuts the usb0 internet i.e. GSM/SIM internet
+ssudo ip link set wlan0 down		// to check if the internet of the GSM is working shut this wifi down and connect just  	
+
+									the usb0 internet connection and try pinging  
+
+nmcli dev status                // tells us which ones are	 connected to the internet.
+
+---------------------------------------------------------------------------------------
+scope@raspberrypi:~ $ ip route
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.53 metric 100 
+192.168.225.0/24 dev usb0 proto kernel scope link src 192.168.225.53 metric 100 
+
+scope@raspberrypi:~ $ nmcli dev status
+DEVICE         TYPE      STATE                   CONNECTION         
+usb0           ethernet  connected               Wired connection 2 
+lo             loopback  connected (externally)  lo                 
+wlan0          wifi      connected               STM-R&D1 2.5       
+p2p-dev-wlan0  wifi-p2p  disconnected            --                 
+eth0           ethernet  unavailable             --  
+
+-> default via 192.168.225.1 dev usb0  # GSM/SIM
+-> default via 10.1.30.1 dev wlan0     # Wi-Fi
+- Both were “connected,” but the OS chose the one with the lowest metric (usb0).
+
+- ip route shows routing priority — which interface your system uses to send packets that aren’t for your local network
+- even if multiple are connected only the default is providing the internet to the Pi.
+---------------------------------------------------------------------------------------
+
+
