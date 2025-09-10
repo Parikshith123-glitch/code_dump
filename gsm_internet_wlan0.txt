@@ -1,3 +1,4 @@
+---------------------------------------------------------------------------------------
 If there are outputs in the minicom terminal without doing anything then ModemManager is working disable with the below commands:
 
 sudo systemctl stop ModemManager
@@ -6,8 +7,9 @@ sudo systemctl disable ModemManager
 sudo systemctl status ModemManager
 sudo systemctl restart ModemManager
 
-
 mmcli -L (shows which modem manager is present)
+
+sudo minicom -D /dev/ttyUSB2 115200    -> at+clanmode?, at+clanmode=0, at+clanmode=1
 ---------------------------------------------------------------------------------------
 
 If the /dev/ttyUSB* is not itself showing or the lsusb also doesn't show the modem even if the modem is connected then shutdown the Pi completely remove the SIM and brush it clean and insert it then wait a few seconds and power it ON. Then try ping, lsusb, mmcli -m 0 -> these should work. 
@@ -20,8 +22,6 @@ ip route
 sudo nmcli radio wifi on
 ip route
 
-sudo minicom -D /dev/ttyUSB2 115200    -> at+clanmode?, at+clanmode=0, at+clanmode=1
-
 sudo ip route del default via 192.168.225.1 dev usb0	// to del the gsm default route
 
 sudo ip route add default via 10.1.30.1 dev wlan0	// if deleting the wifi route then, add the gsm internet to check 
@@ -32,7 +32,20 @@ ssudo ip link set wlan0 down		// to check if the internet of the GSM is working 
 
 									the usb0 internet connection and try pinging  
 
-nmcli dev status                // tells us which ones are	 connected to the internet.
+---------------------------------------------------------------------------------------
+
+$ nmcli dev status                // tells us which ones are	 connected to the internet.
+$ nmcli connection show
+
+if the gsm module is the primary connection and there is no internet / sim is removed then you can modify the metric so that the wifi is set at a lower metric than gsm (Lower metric = chosed for network than higher metric number)
+
+$ nmcli connection modify "My_WIFI" ipv4.route-metric 100
+$ nmcli connection modify "gsm" ipv4.route-metric 600
+
+"Here the My_WIFI and gsm is found by running $ nmcli connection show $ and in this it is the NAME and after this run the below command"
+
+$ nmcli connection up "My_WIFI"
+$ nmcli connection up "gsm"     (if you want mobile data as the next preferred data point then do this if not and you only use WIFI then not necessary)
 
 ---------------------------------------------------------------------------------------
 scope@raspberrypi:~ $ ip route
