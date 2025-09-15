@@ -47,6 +47,21 @@ $ nmcli connection modify "gsm" ipv4.route-metric 600
 $ nmcli connection up "My_WIFI"
 $ nmcli connection up "gsm"     (if you want mobile data as the next preferred data point then do this if not and you only use WIFI then not necessary)
 
+ ************************** IMPT **************************
+
+Option 2: Disable autoconnect for GSM profile
+
+If you don’t have a SIM (or don’t want the modem to auto-take over):
+
+nmcli connection modify "gsm" connection.autoconnect no
+
+
+Now it will only connect if you explicitly run:
+
+nmcli connection up "gsm"
+
+ ************************** IMPT **************************
+
 ---------------------------------------------------------------------------------------
 scope@raspberrypi:~ $ ip route
 default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.53 metric 100 
